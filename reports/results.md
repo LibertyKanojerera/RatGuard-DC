@@ -1,62 +1,60 @@
-> **SYNTHETIC TEST DATA. These numbers are fake and only prove the code runs. Run `python run.py all` on real data before quoting anything.**
-
 # RatGuard results (auto-generated)
 
-Data: 2020-01 to 2026-09, 338 census block groups, 48,882 rat requests and 612,129 sanitation requests (100.0% of requests had a usable location). Test year 2025-01 to 2025-12 was never used for training.
+Data: 2020-01 to 2026-09, 571 census block groups, 90,880 rat requests and 929,717 sanitation requests (100.0% of requests had a usable location). Test year 2025-01 to 2025-12 was never used for training.
 
 ## Sentences for the memo (check every number first)
 
 - **Recurrence is the norm:** 93% of block groups with a rat request in a given month had another within 3 months. Finding rats is not the bottleneck; stopping them coming back is.
-- **Targeting:** each month, the 10% of block groups RatGuard flags accounted for 31% of the next quarter's rat requests (naive 'last quarter' rule: 29%; random: 10%).
-- **Recurrence slice:** among recently treated block groups, the top 10% caught 26% of next-quarter requests vs 25% for the naive rule.
-- **Does sanitation data add anything?** Rat history only: 31%; with sanitation, shelter and food-business signals: 31% (difference +0.2%, 95% CI -0.4% to +0.4%). Recurrence slice: -0.1% (-0.8% to +0.5%). Only claim an improvement if the interval is above zero.
-- **Fixable signal:** 8% of the model's total SHAP impact comes from conditions people can fix (sanitation, shelter, food businesses).
-- **Lead-lag:** within the same block group (season removed), sanitation requests 1-4 weeks earlier correlate with rat requests at 0.049 on average, vs 0.013 in the reverse direction (difference 0.036, 95% CI 0.030 to 0.040). The interval is above zero: sanitation problems tend to come first.
-- **Equity:** given physical conditions, the lowest-income fifth of block groups filed 0.93x the expected rat requests vs 1.03x in the highest-income fifth. 61 block groups are flagged as possible blind spots (high expected, low reported). A low ratio can mean fewer rats OR under-reporting; field checks decide.
+- **Targeting:** each month, the 10% of block groups RatGuard flags accounted for 37% of the next quarter's rat requests (naive 'last quarter' rule: 36%; random: 10%).
+- **Recurrence slice:** among recently treated block groups, the top 10% caught 27% of next-quarter requests vs 26% for the naive rule.
+- **Does sanitation data add anything?** Rat history only: 37%; with sanitation, shelter and food-business signals: 37% (difference +0.1%, 95% CI -0.2% to +0.3%). Recurrence slice: +0.0% (-0.2% to +0.5%). Only claim an improvement if the interval is above zero.
+- **Fixable signal:** 14% of the model's total SHAP impact comes from conditions people can fix (sanitation, shelter, food businesses).
+- **Lead-lag:** within the same block group (season removed), sanitation requests 1-4 weeks earlier correlate with rat requests at 0.021 on average, vs 0.017 in the reverse direction (difference 0.004, 95% CI 0.001 to 0.007). The interval is above zero: sanitation problems tend to come first.
+- **Equity:** given physical conditions, the lowest-income fifth of block groups filed 0.44x the expected rat requests vs 1.21x in the highest-income fifth. 81 block groups are flagged as possible blind spots (high expected, low reported). A low ratio can mean fewer rats OR under-reporting; field checks decide.
 
 ## Model metrics (test year)
 
 | slice | model_name | capture_top | capture_lo | capture_hi | spearman | poisson_dev | mae | mean_next3 | rows |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| all | Naive: next 3 months = last 3 months | 0.287 | 0.250 | 0.310 | 0.701 | 4.652 | 3.333 | 5.261 | 4056 |
-| all | Poisson regression | 0.312 | 0.282 | 0.329 | 0.796 | 1.714 | 2.179 | 5.261 | 4056 |
-| all | Random forest | 0.309 | 0.280 | 0.328 | 0.795 | 1.775 | 2.230 | 5.261 | 4056 |
-| all | XGBoost, rat history only | 0.307 | 0.278 | 0.327 | 0.792 | 1.775 | 2.219 | 5.261 | 4056 |
-| all | XGBoost, full RatGuard | 0.309 | 0.279 | 0.327 | 0.794 | 1.749 | 2.200 | 5.261 | 4056 |
-| recent | Naive: next 3 months = last 3 months | 0.249 | 0.219 | 0.268 | 0.656 | 4.001 | 4.241 | 7.116 | 2474 |
-| recent | Poisson regression | 0.264 | 0.239 | 0.282 | 0.767 | 1.794 | 2.673 | 7.116 | 2474 |
-| recent | Random forest | 0.260 | 0.237 | 0.279 | 0.763 | 1.877 | 2.728 | 7.116 | 2474 |
-| recent | XGBoost, rat history only | 0.259 | 0.235 | 0.278 | 0.758 | 1.869 | 2.716 | 7.116 | 2474 |
-| recent | XGBoost, full RatGuard | 0.258 | 0.234 | 0.279 | 0.761 | 1.845 | 2.694 | 7.116 | 2474 |
+| all | Naive: next 3 months = last 3 months | 0.356 | 0.327 | 0.386 | 0.831 | 5.115 | 4.063 | 7.373 | 6852 |
+| all | Poisson regression | 0.369 | 0.342 | 0.399 | 0.872 | 2.420 | 3.049 | 7.373 | 6852 |
+| all | Random forest | 0.369 | 0.340 | 0.399 | 0.872 | 2.494 | 3.103 | 7.373 | 6852 |
+| all | XGBoost, rat history only | 0.367 | 0.341 | 0.399 | 0.869 | 2.461 | 3.053 | 7.373 | 6852 |
+| all | XGBoost, full RatGuard | 0.369 | 0.342 | 0.401 | 0.873 | 2.396 | 2.998 | 7.373 | 6852 |
+| recent | Naive: next 3 months = last 3 months | 0.260 | 0.231 | 0.289 | 0.785 | 5.457 | 6.106 | 11.817 | 3872 |
+| recent | Poisson regression | 0.273 | 0.249 | 0.301 | 0.833 | 2.902 | 4.417 | 11.817 | 3872 |
+| recent | Random forest | 0.274 | 0.247 | 0.300 | 0.831 | 3.018 | 4.491 | 11.817 | 3872 |
+| recent | XGBoost, rat history only | 0.274 | 0.246 | 0.300 | 0.830 | 2.934 | 4.398 | 11.817 | 3872 |
+| recent | XGBoost, full RatGuard | 0.275 | 0.249 | 0.300 | 0.834 | 2.872 | 4.336 | 11.817 | 3872 |
 
 ## Signal by driver category (share of mean |SHAP|)
 
 | category | share |
 | --- | --- |
-| colony | 0.623 |
-| season | 0.277 |
-| food | 0.046 |
-| shelter | 0.026 |
-| containers | 0.011 |
-| density | 0.011 |
-| food_business | 0.006 |
+| colony | 0.650 |
+| season | 0.133 |
+| food | 0.090 |
+| density | 0.047 |
+| shelter | 0.027 |
+| containers | 0.027 |
+| food_business | 0.026 |
 
 ## Top drivers
 
 | label | category | mean_abs_shap |
 | --- | --- | --- |
-| Rat requests, last 12 months | colony | 0.557 |
-| Time of year | season | 0.175 |
-| Months with rat requests (last 12) | colony | 0.163 |
+| Rat requests, last 12 months | colony | 0.731 |
+| Months with rat requests (last 12) | colony | 0.190 |
+| Rat requests, last 3 months | colony | 0.165 |
 | Time of year | season | 0.129 |
-| Rat requests, last 3 months | colony | 0.031 |
-| Sanitation requests this month | food | 0.029 |
-| Monthly temperature | season | 0.029 |
-| Vacant or blighted buildings | shelter | 0.014 |
-| Sanitation requests, last 12 months | food | 0.013 |
-| Shelter requests (vacant lots, abandoned cars), 12 mo | shelter | 0.013 |
-| Rat-resistant can requests, last 12 months | containers | 0.012 |
-| Population density | density | 0.011 |
+| Sanitation requests, last 12 months | food | 0.129 |
+| Time of year | season | 0.092 |
+| Rat requests this month | colony | 0.087 |
+| Population density | density | 0.074 |
+| Rat-resistant can requests, last 12 months | containers | 0.043 |
+| Vacant or blighted buildings | shelter | 0.033 |
+| Licensed bars and restaurants | food_business | 0.033 |
+| Months since last rat request | colony | 0.032 |
 
 ## Method notes (for the appendix)
 

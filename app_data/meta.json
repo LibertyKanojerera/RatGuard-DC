@@ -1,68 +1,68 @@
 {
-  "data_mode": "synthetic",
+  "data_mode": "real",
   "first_month": "2020-01",
   "last_full_month": "2026-09",
-  "last_request_date": "2026-10-04",
-  "block_groups": 338,
+  "last_request_date": "2026-10-08",
+  "block_groups": 571,
   "requests_used": {
-    "rodent": 48882,
-    "food": 612129,
-    "shelter": 16546,
-    "containers": 9432
+    "rodent": 90880,
+    "food": 929717,
+    "shelter": 90138,
+    "containers": 81473
   },
-  "share_placed_in_block_group": 1.0,
-  "generated": "2026-10-07T22:53",
+  "share_placed_in_block_group": 0.9995,
+  "generated": "2026-10-08T10:50",
   "scored_month": "2026-09",
   "test_window": "2025-01 to 2025-12",
   "horizon_months": 3,
   "top_k_frac": 0.1,
   "pilot_ward": 1,
   "headline": {
-    "recurrence_share_any_next3": 0.9329021827000809,
-    "capture_full_all": 0.30865123254288124,
-    "capture_rodent_all": 0.30677664260942916,
-    "capture_naive_all": 0.2872809073015278,
-    "capture_full_recent": 0.25843462455980915,
-    "capture_rodent_recent": 0.2591730092014086,
-    "capture_naive_recent": 0.24929001476769283,
+    "recurrence_share_any_next3": 0.9261363636363636,
+    "capture_full_all": 0.36878983413166544,
+    "capture_rodent_all": 0.3674042991172163,
+    "capture_naive_all": 0.3561418787854796,
+    "capture_full_recent": 0.27465250458956203,
+    "capture_rodent_recent": 0.27430282367339803,
+    "capture_naive_recent": 0.259791065652592,
     "diffs": {
       "all": {
         "xgb_full_minus_xgb_rodent": {
-          "point": 0.0018745899334520755,
-          "lo": -0.0036561116843731394,
-          "hi": 0.004379279702512213
+          "point": 0.0013855350144491574,
+          "lo": -0.0023399334128837946,
+          "hi": 0.0031082096452693495
         },
         "xgb_full_minus_naive": {
-          "point": 0.02137032524135346,
-          "lo": 0.010434955848262591,
-          "hi": 0.030377579642341918
+          "point": 0.012647955346185846,
+          "lo": 0.006106879062036881,
+          "hi": 0.021160503390166726
         }
       },
       "recent": {
         "xgb_full_minus_xgb_rodent": {
-          "point": -0.0007383846415994766,
-          "lo": -0.008008081940427837,
-          "hi": 0.005053220608657544
+          "point": 0.0003496809161639969,
+          "lo": -0.0015903953659193136,
+          "hi": 0.004934762997392182
         },
         "xgb_full_minus_naive": {
-          "point": 0.009144609792116315,
-          "lo": 0.0034921666461576123,
-          "hi": 0.02281079428981403
+          "point": 0.014861438936970006,
+          "lo": 0.006675561941140064,
+          "hi": 0.020344084330896094
         }
       }
     },
-    "fixable_signal_share": 0.07784412056207657,
+    "fixable_signal_share": 0.1436469852924347,
     "lag": {
-      "food_leads_mean_corr": 0.0493021402201034,
-      "rats_lead_mean_corr": 0.013207589302629903,
-      "difference": 0.0360945509174735,
-      "difference_lo": 0.03047439569891252,
-      "difference_hi": 0.040498430676999646,
-      "block_groups": 338,
+      "food_leads_mean_corr": 0.020661122946368057,
+      "rats_lead_mean_corr": 0.016858012713480225,
+      "difference": 0.0038031102328878325,
+      "difference_lo": 0.0005980343661939492,
+      "difference_hi": 0.007321987289982477,
+      "block_groups": 571,
       "weeks": 353
     },
-    "oe_lowest_income": 0.9274511049661688,
-    "oe_highest_income": 1.028829373217623,
-    "blind_spots": 61
+    "oe_lowest_income": 0.4408622493538484,
+    "oe_highest_income": 1.2059628213979257,
+    "blind_spots": 81
   }
 }

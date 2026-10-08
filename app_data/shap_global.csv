@@ -1,23 +1,23 @@
 label,category,mean_abs_shap
-"Rat requests, last 12 months",colony,0.55687654
-Time of year,season,0.30461338
-Months with rat requests (last 12),colony,0.16269588
-"Rat requests, last 3 months",colony,0.030594585
-Sanitation requests this month,food,0.02941822
-Monthly temperature,season,0.02901269
-Vacant or blighted buildings,shelter,0.013669354
-"Sanitation requests, last 12 months",food,0.012909308
-"Shelter requests (vacant lots, abandoned cars), 12 mo",shelter,0.012909172
-"Rat-resistant can requests, last 12 months",containers,0.012486341
-Population density,density,0.011020699
-Months since last rat request,colony,0.010761082
-Sanitation requests rising vs. usual,food,0.010337643
-Monthly rainfall,season,0.008144352
-Rat requests this month,colony,0.0063566873
-"Shelter requests (vacant lots, abandoned cars), 3 mo",shelter,0.0051758667
-"Sanitation requests, last 3 months",food,0.004235278
-Licensed restaurants,food_business,0.00397453
-Licensed bars and restaurants,food_business,0.0023465324
-Population,density,0.00209898
-"Rat-resistant can requests, last 3 months",containers,0.0011775023
-Grocery stores,food_business,0.00090633554
+"Rat requests, last 12 months",colony,0.731262
+Time of year,season,0.22087404
+Months with rat requests (last 12),colony,0.19020379
+"Rat requests, last 3 months",colony,0.1652746
+"Sanitation requests, last 12 months",food,0.12921862
+Rat requests this month,colony,0.08742729
+Population density,density,0.07387229
+"Rat-resistant can requests, last 12 months",containers,0.042647194
+Vacant or blighted buildings,shelter,0.0330986
+Licensed bars and restaurants,food_business,0.032544352
+Months since last rat request,colony,0.031694334
+Monthly temperature,season,0.018947989
+Sanitation requests this month,food,0.015730947
+"Shelter requests (vacant lots, abandoned cars), 12 mo",shelter,0.01338133
+Licensed restaurants,food_business,0.013190489
+Population,density,0.012446368
+"Sanitation requests, last 3 months",food,0.012388467
+Sanitation requests rising vs. usual,food,0.009765824
+Monthly rainfall,season,0.007937811
+"Rat-resistant can requests, last 3 months",containers,0.006933582
+"Shelter requests (vacant lots, abandoned cars), 3 mo",shelter,0.0041403375
+Grocery stores,food_business,0.0031716793
