@@ -5,13 +5,14 @@
   "last_request_date": "2026-10-08",
   "block_groups": 571,
   "requests_used": {
-    "rodent": 90880,
+    "rodent": 102218,
     "food": 929717,
     "shelter": 90138,
     "containers": 81473
   },
   "share_placed_in_block_group": 0.9995,
-  "generated": "2026-10-08T10:50",
+  "data_warnings": [],
+  "generated": "2026-10-08T15:04",
   "scored_month": "2026-09",
   "test_window": "2025-01 to 2025-12",
   "horizon_months": 3,
@@ -53,16 +54,16 @@
     },
     "fixable_signal_share": 0.1436469852924347,
     "lag": {
-      "food_leads_mean_corr": 0.020661122946368057,
-      "rats_lead_mean_corr": 0.016858012713480225,
-      "difference": 0.0038031102328878325,
-      "difference_lo": 0.0005980343661939492,
-      "difference_hi": 0.007321987289982477,
+      "food_leads_mean_corr": 0.0265623968268967,
+      "rats_lead_mean_corr": 0.0227725815331106,
+      "difference": 0.003789815293786098,
+      "difference_lo": 0.0005663915928876734,
+      "difference_hi": 0.007492736868324187,
       "block_groups": 571,
       "weeks": 353
     },
-    "oe_lowest_income": 0.4408622493538484,
-    "oe_highest_income": 1.2059628213979257,
-    "blind_spots": 81
+    "oe_lowest_income": 0.4185172798533587,
+    "oe_highest_income": 1.2795009634525119,
+    "blind_spots": 77
   }
 }

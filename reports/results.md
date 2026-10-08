@@ -1,6 +1,6 @@
 # RatGuard results (auto-generated)
 
-Data: 2020-01 to 2026-09, 571 census block groups, 90,880 rat requests and 929,717 sanitation requests (100.0% of requests had a usable location). Test year 2025-01 to 2025-12 was never used for training.
+Data: 2020-01 to 2026-09, 571 census block groups, 102,218 rat requests and 929,717 sanitation requests (100.0% of requests had a usable location). Test year 2025-01 to 2025-12 was never used for training.
 
 ## Sentences for the memo (check every number first)
 
@@ -9,8 +9,8 @@ Data: 2020-01 to 2026-09, 571 census block groups, 90,880 rat requests and 929,7
 - **Recurrence slice:** among recently treated block groups, the top 10% caught 27% of next-quarter requests vs 26% for the naive rule.
 - **Does sanitation data add anything?** Rat history only: 37%; with sanitation, shelter and food-business signals: 37% (difference +0.1%, 95% CI -0.2% to +0.3%). Recurrence slice: +0.0% (-0.2% to +0.5%). Only claim an improvement if the interval is above zero.
 - **Fixable signal:** 14% of the model's total SHAP impact comes from conditions people can fix (sanitation, shelter, food businesses).
-- **Lead-lag:** within the same block group (season removed), sanitation requests 1-4 weeks earlier correlate with rat requests at 0.021 on average, vs 0.017 in the reverse direction (difference 0.004, 95% CI 0.001 to 0.007). The interval is above zero: sanitation problems tend to come first.
-- **Equity:** given physical conditions, the lowest-income fifth of block groups filed 0.44x the expected rat requests vs 1.21x in the highest-income fifth. 81 block groups are flagged as possible blind spots (high expected, low reported). A low ratio can mean fewer rats OR under-reporting; field checks decide.
+- **Lead-lag:** within the same block group (season removed), sanitation requests 1-4 weeks earlier correlate with rat requests at 0.027 on average, vs 0.023 in the reverse direction (difference 0.004, 95% CI 0.001 to 0.007). The interval is above zero: sanitation problems tend to come first.
+- **Equity:** given physical conditions, the lowest-income fifth of block groups filed 0.42x the expected rat requests vs 1.28x in the highest-income fifth. 77 block groups are flagged as possible blind spots (high expected, low reported). A low ratio can mean fewer rats OR under-reporting; field checks decide.
 
 ## Model metrics (test year)
 

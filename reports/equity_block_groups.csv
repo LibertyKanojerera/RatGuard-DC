@@ -1,572 +1,572 @@
 GEOCODE,observed_12m,expected_12m,ward,neighborhood,median_hh_income,oe_ratio,income_quintile,blind_spot
-110010001011,2.0,9.31495084362219,2.0,"Georgetown, Burleith/Hillandale",134750.0,0.29083997059035155,Q4,False
-110010001021,13.0,12.832799042818374,2.0,"Georgetown, Burleith/Hillandale",157008.0,1.0120872830339014,Q4,False
-110010001022,24.0,4.545462271594266,2.0,"Georgetown, Burleith/Hillandale",157008.0,4.508190440327844,Q4,False
-110010001023,24.0,15.859760388932878,2.0,"National Mall, Potomac River",157008.0,1.4828205990644183,Q4,False
-110010002011,0.0,0.7971734931871549,2.0,"Georgetown, Burleith/Hillandale",0.0,0.5564293062360793,Q1 (lowest income),False
-110010002012,0.0,1.9010654870927974,2.0,"Georgetown, Burleith/Hillandale",0.0,0.3447009398612768,Q1 (lowest income),False
-110010002021,38.0,19.807018866768477,2.0,"Georgetown, Burleith/Hillandale",135332.0,1.874367503087532,Q4,False
-110010002022,18.0,17.677646784688953,2.0,"Georgetown, Burleith/Hillandale",135332.0,1.0172587702844502,Q4,False
-110010002023,30.0,22.285958657603423,2.0,"Georgetown, Burleith/Hillandale",135332.0,1.3312743725016345,Q4,False
-110010002024,13.0,45.80907284744506,2.0,"Georgetown, Burleith/Hillandale",135332.0,0.2990873168034592,Q4,True
-110010003001,55.0,76.07308917477364,3.0,"Cathedral Heights, McLean Gardens, Glover Park",171250.0,0.7265830473333232,Q5 (highest income),False
-110010003002,24.0,2.7163534017147195,3.0,"Cathedral Heights, McLean Gardens, Glover Park",171250.0,6.727024396674719,Q5 (highest income),False
-110010003003,53.0,14.627261578314686,2.0,"Georgetown, Burleith/Hillandale",171250.0,3.45549984745463,Q5 (highest income),False
-110010003004,53.0,5.045884504171496,3.0,"Cathedral Heights, McLean Gardens, Glover Park",171250.0,8.931695596027591,Q5 (highest income),False
-110010004001,7.0,16.22724394073165,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",207614.0,0.46438072320349555,Q5 (highest income),False
-110010004002,7.0,6.771664363406434,3.0,Observatory Circle,207614.0,1.0293805323951848,Q5 (highest income),False
-110010005011,13.0,9.859332723065585,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",110774.0,1.2892136521670003,Q3,False
-110010005012,0.0,4.000310407462475,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",110774.0,0.1999875844722755,Q3,False
-110010005013,2.0,1.985976329421957,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",110774.0,1.0046965109669028,Q3,False
-110010005021,12.0,9.556344304332288,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",151875.0,1.231486926270948,Q4,False
-110010005022,12.0,11.068383945465182,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",151875.0,1.0771947643317132,Q4,False
-110010006001,1.0,1.5331410998031854,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",193954.0,0.7895335953277106,Q5 (highest income),False
-110010006002,3.0,3.556292464948058,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",193954.0,0.8779067697634287,Q5 (highest income),False
-110010006003,0.0,4.4002342940265065,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",193954.0,0.18517715075920957,Q5 (highest income),False
-110010006004,2.0,6.570166983544626,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",193954.0,0.39629244724999335,Q5 (highest income),False
-110010007021,8.0,6.78339641842105,3.0,"Cathedral Heights, McLean Gardens, Glover Park",88830.0,1.1563075444416016,Q2,False
-110010007022,0.0,9.097673659632543,3.0,"Cathedral Heights, McLean Gardens, Glover Park",88830.0,0.09903271126672461,Q2,False
-110010007023,9.0,7.940185433602085,3.0,"Cathedral Heights, McLean Gardens, Glover Park",88830.0,1.118545031785868,Q2,False
-110010007031,0.0,13.24140927628428,3.0,"Cathedral Heights, McLean Gardens, Glover Park",124019.0,0.07021776992711423,Q3,False
-110010007032,0.0,2.2334821811109418,3.0,"Cathedral Heights, McLean Gardens, Glover Park",124019.0,0.30926411341980103,Q3,False
-110010007041,4.0,10.293425255012613,3.0,"Cathedral Heights, McLean Gardens, Glover Park",80274.0,0.44273547547328373,Q2,False
-110010007042,3.0,2.481295255107358,3.0,"Cathedral Heights, McLean Gardens, Glover Park",80274.0,1.1489976307328882,Q2,False
-110010008021,9.0,3.388538887013644,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",157212.0,2.278662729773576,Q4,False
-110010008022,12.0,0.5347986824627572,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",157212.0,8.470166249517517,Q4,False
-110010008031,0.0,3.901945462239624,3.0,"Cathedral Heights, McLean Gardens, Glover Park",143000.0,0.2040006376454289,Q4,False
-110010008032,4.0,11.060978701393646,3.0,"Cathedral Heights, McLean Gardens, Glover Park",143000.0,0.4145600555137578,Q4,False
-110010008033,0.0,11.22014750655855,3.0,"Cathedral Heights, McLean Gardens, Glover Park",143000.0,0.08183207276862249,Q4,False
-110010008041,0.0,3.1569227770036874,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.240562563618466,Q5 (highest income),False
-110010008042,7.0,5.5330018078385725,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,1.2245519342121198,Q5 (highest income),False
-110010008043,2.0,2.5999424497957895,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.8333466553528316,Q5 (highest income),False
-110010009021,2.0,4.765620959277975,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.5203255679117151,Q5 (highest income),False
-110010009022,2.0,4.0923734787330455,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.5891162564035628,Q5 (highest income),False
-110010009031,1.0,0.6723388594929753,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,1.1959298730918482,Q5 (highest income),False
-110010009032,2.0,5.17388222690494,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.48591791837661036,Q5 (highest income),False
-110010009041,0.0,4.53095532048828,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.1808005926744168,Q5 (highest income),False
-110010009042,0.0,1.4752202329986204,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.4040044545000119,Q5 (highest income),False
-110010010021,1.0,0.5938138076082571,3.0,"Cathedral Heights, McLean Gardens, Glover Park",136635.0,1.2548517213571406,Q4,False
-110010010022,0.0,2.7726202096597805,3.0,"Cathedral Heights, McLean Gardens, Glover Park",136635.0,0.26506776309990165,Q4,False
-110010010023,0.0,2.2537010890696223,3.0,"Cathedral Heights, McLean Gardens, Glover Park",136635.0,0.3073423073063987,Q4,False
-110010010024,4.0,8.830368808671258,3.0,"Cathedral Heights, McLean Gardens, Glover Park",136635.0,0.5086279159322645,Q4,False
-110010010031,0.0,2.409851564428919,3.0,"Friendship Heights, American University Park, Tenleytown",250001.0,0.2932678977677082,Q5 (highest income),False
-110010010032,3.0,6.76613720430644,3.0,"Friendship Heights, American University Park, Tenleytown",250001.0,0.5150565712104519,Q5 (highest income),False
-110010010033,3.0,1.754519017108879,3.0,"Friendship Heights, American University Park, Tenleytown",250001.0,1.4521591519808668,Q5 (highest income),False
-110010010041,6.0,8.326794530556258,3.0,"Friendship Heights, American University Park, Tenleytown",232045.0,0.7505258078825195,Q5 (highest income),False
-110010010042,2.0,9.070718318830135,3.0,"Friendship Heights, American University Park, Tenleytown",232045.0,0.29789334832160164,Q5 (highest income),False
-110010010043,7.0,9.138808709401962,3.0,"Friendship Heights, American University Park, Tenleytown",232045.0,0.7890473357665193,Q5 (highest income),False
-110010011001,14.0,0.9061529167314613,3.0,"Hawthorne, Barnaby Woods, Chevy Chase",238750.0,7.869253231645738,Q5 (highest income),False
-110010011002,3.0,10.755163932224635,3.0,"Friendship Heights, American University Park, Tenleytown",238750.0,0.3402759862016667,Q5 (highest income),False
-110010011003,0.0,1.5479424802643114,3.0,"Hawthorne, Barnaby Woods, Chevy Chase",238750.0,0.392473538058938,Q5 (highest income),False
-110010011004,6.0,6.374186726434308,3.0,"Friendship Heights, American University Park, Tenleytown",238750.0,0.9492572211260996,Q5 (highest income),False
-110010012001,9.0,1.8313779405664339,3.0,"North Cleveland Park, Forest Hills, Van Ness",163661.0,3.5318492302724662,Q4,False
-110010012002,0.0,2.101655045437053,3.0,"North Cleveland Park, Forest Hills, Van Ness",163661.0,0.32240851588932595,Q4,False
-110010012003,0.0,15.855035158033065,3.0,"North Cleveland Park, Forest Hills, Van Ness",163661.0,0.059329452037565324,Q4,False
-110010012004,32.0,1.2330017793417685,3.0,"Friendship Heights, American University Park, Tenleytown",163661.0,14.778313347214416,Q4,False
-110010013011,0.0,0.5596187264177175,3.0,Rock Creek Park,103167.0,0.6411823499304194,Q2,False
-110010013012,0.0,10.798035031532075,3.0,"North Cleveland Park, Forest Hills, Van Ness",103167.0,0.08475987715982748,Q2,False
-110010013013,0.0,1.1782716632732735,3.0,"North Cleveland Park, Forest Hills, Van Ness",103167.0,0.4590795614984529,Q2,False
-110010013014,0.0,15.75110008482724,3.0,"North Cleveland Park, Forest Hills, Van Ness",103167.0,0.05969757179743538,Q2,False
-110010013031,0.0,4.75748132832812,3.0,"North Cleveland Park, Forest Hills, Van Ness",103750.0,0.17368705914507654,Q3,False
-110010013032,2.0,6.7321633092332815,3.0,"North Cleveland Park, Forest Hills, Van Ness",103750.0,0.38798973586312924,Q3,False
-110010013033,2.0,2.0698145405020782,3.0,"North Cleveland Park, Forest Hills, Van Ness",103750.0,0.9772577334620808,Q3,False
-110010013034,0.0,2.427552854113699,3.0,"North Cleveland Park, Forest Hills, Van Ness",103750.0,0.29175334197977854,Q3,False
-110010013041,4.0,8.312112552185448,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",129632.0,0.5369350909345008,Q3,False
-110010013042,0.0,4.124609438810006,3.0,"North Cleveland Park, Forest Hills, Van Ness",129632.0,0.19513682202330168,Q3,False
-110010013043,0.0,1.9617150763246423,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",129632.0,0.3376422019774285,Q3,False
-110010013044,0.0,1.9254140611716224,3.0,Rock Creek Park,129632.0,0.34183195236283986,Q3,False
-110010014011,4.0,4.841769211801015,3.0,"Hawthorne, Barnaby Woods, Chevy Chase",212273.0,0.8559050894888917,Q5 (highest income),False
-110010014012,1.0,1.4980330055223823,3.0,"Hawthorne, Barnaby Woods, Chevy Chase",212273.0,0.80062993386341,Q5 (highest income),False
-110010014021,1.0,1.3270118858290296,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",176111.0,0.859471329811224,Q5 (highest income),False
-110010014022,3.0,3.07784949723395,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",176111.0,0.9809091784072078,Q5 (highest income),False
-110010014023,0.0,8.809329989685153,3.0,"Hawthorne, Barnaby Woods, Chevy Chase",176111.0,0.1019437618116155,Q5 (highest income),False
-110010015001,0.0,1.784249922644413,4.0,Rock Creek Park,250001.0,0.35916315983955355,Q5 (highest income),False
-110010015002,0.0,2.6130481394600764,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",250001.0,0.276774612847931,Q5 (highest income),False
-110010015003,0.0,3.2230023477260477,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",250001.0,0.23679835284450365,Q5 (highest income),False
-110010015004,1.0,6.952962867311708,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",250001.0,0.2514786040584203,Q5 (highest income),False
-110010015005,0.0,0.6078643399009723,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",250001.0,0.6219430179424151,Q5 (highest income),False
-110010016001,4.0,12.773614030943337,4.0,"Colonial Village, Shepherd Park, North Portal Estates",222303.0,0.36301293101194565,Q5 (highest income),False
-110010016002,5.0,6.239926834960538,4.0,"Colonial Village, Shepherd Park, North Portal Estates",222303.0,0.8287376567159334,Q5 (highest income),False
-110010016003,4.0,5.797009069121057,4.0,"Colonial Village, Shepherd Park, North Portal Estates",222303.0,0.7356176737669949,Q5 (highest income),False
-110010016004,0.0,5.734880430365779,4.0,"Colonial Village, Shepherd Park, North Portal Estates",222303.0,0.14848073552891403,Q5 (highest income),False
-110010017021,12.0,11.436130038423494,4.0,"Takoma, Brightwood, Manor Park",111705.0,1.0453412725529836,Q3,False
-110010017022,31.0,20.38876454123324,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",111705.0,1.496112593988794,Q3,False
-110010018031,8.0,8.57306823168813,4.0,Rock Creek Park,45924.0,0.9401374545946307,Q1 (lowest income),False
-110010018032,2.0,5.09267313623521,4.0,"Takoma, Brightwood, Manor Park",45924.0,0.49239470638232247,Q1 (lowest income),False
-110010018033,14.0,16.748943352015065,4.0,"Takoma, Brightwood, Manor Park",45924.0,0.8451207321193589,Q1 (lowest income),False
-110010018041,10.0,11.090631872082128,4.0,"Takoma, Brightwood, Manor Park",73651.0,0.9097952957611379,Q2,False
-110010018042,33.0,12.690322443867439,4.0,"Takoma, Brightwood, Manor Park",73651.0,2.4835061511082417,Q2,False
-110010018043,24.0,15.586425493113893,4.0,"Takoma, Brightwood, Manor Park",73651.0,1.507256642510415,Q2,False
-110010019011,18.0,8.245312182885469,4.0,"Takoma, Brightwood, Manor Park",107273.0,2.055095558068012,Q3,False
-110010019012,26.0,19.97813482045385,4.0,"Takoma, Brightwood, Manor Park",107273.0,1.2870543654660271,Q3,False
-110010019013,51.0,27.054759417989157,4.0,"Takoma, Brightwood, Manor Park",107273.0,1.8535179441480711,Q3,False
-110010019014,28.0,5.703308443703955,4.0,"Takoma, Brightwood, Manor Park",107273.0,4.326221931088086,Q3,False
-110010019021,18.0,8.947607725223788,4.0,"Takoma, Brightwood, Manor Park",167866.0,1.9100069609522687,Q5 (highest income),False
-110010019022,5.0,8.4866310818966,4.0,"Takoma, Brightwood, Manor Park",167866.0,0.6324689922273713,Q5 (highest income),False
-110010020011,13.0,6.055283695653303,4.0,"Brightwood Park, Crestwood, Petworth",90774.0,1.984328427306938,Q2,False
-110010020012,21.0,12.269892474009842,4.0,"Brightwood Park, Crestwood, Petworth",90774.0,1.6578883395693507,Q2,False
-110010020021,18.0,4.141832214538284,4.0,"Brightwood Park, Crestwood, Petworth",216000.0,3.6951808630157963,Q5 (highest income),False
-110010020022,25.0,39.138773689356064,4.0,"Brightwood Park, Crestwood, Petworth",216000.0,0.6477527241170957,Q5 (highest income),False
-110010020023,14.0,13.43855486482878,4.0,"Brightwood Park, Crestwood, Petworth",216000.0,1.038885133618106,Q5 (highest income),False
-110010021011,37.0,15.813149599217699,4.0,"Brightwood Park, Crestwood, Petworth",119539.0,2.2601357214931403,Q3,False
-110010021012,24.0,24.410479925601532,4.0,"Brightwood Park, Crestwood, Petworth",119539.0,0.9838460380597548,Q3,False
-110010021013,23.0,12.928996137609289,4.0,"Brightwood Park, Crestwood, Petworth",119539.0,1.7230243847364044,Q3,False
-110010021014,13.0,32.221120302157814,4.0,"Brightwood Park, Crestwood, Petworth",119539.0,0.4214186599568304,Q3,True
-110010021015,37.0,67.24795713712629,4.0,"Brightwood Park, Crestwood, Petworth",119539.0,0.5567932227429022,Q3,True
-110010021021,29.0,15.407075210517345,4.0,"Takoma, Brightwood, Manor Park",106148.0,1.828479458713595,Q3,False
-110010021022,15.0,10.939090154993817,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",106148.0,1.340135621080607,Q3,False
-110010021023,11.0,46.247391138931775,4.0,"Brightwood Park, Crestwood, Petworth",106148.0,0.2539822773433943,Q3,True
-110010021024,24.0,7.863348510697979,4.0,"Brightwood Park, Crestwood, Petworth",106148.0,2.820604421661321,Q3,False
-110010021025,19.0,4.0052701248480345,4.0,"Brightwood Park, Crestwood, Petworth",106148.0,3.995788339317096,Q3,False
-110010021026,17.0,34.226075521935556,4.0,"Brightwood Park, Crestwood, Petworth",106148.0,0.5109851078582756,Q3,True
-110010022011,30.0,18.36831494703795,4.0,"Brightwood Park, Crestwood, Petworth",137232.0,1.6005522465309208,Q4,False
-110010022012,35.0,25.162949670494417,4.0,"Brightwood Park, Crestwood, Petworth",137232.0,1.3759916390696358,Q4,False
-110010022013,26.0,51.50422751020574,4.0,"Brightwood Park, Crestwood, Petworth",137232.0,0.5142443052752611,Q4,True
-110010022021,17.0,35.666961755352716,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",93417.0,0.4909051401667422,Q2,True
-110010022022,35.0,6.21142698040119,4.0,"Brightwood Park, Crestwood, Petworth",93417.0,4.992077171111733,Q2,False
-110010022023,25.0,15.944176943676398,4.0,"Brightwood Park, Crestwood, Petworth",93417.0,1.5344504537709787,Q2,False
-110010023011,49.0,10.769894069529807,4.0,"Brightwood Park, Crestwood, Petworth",150938.0,4.2481265935469406,Q4,False
-110010023012,109.0,37.738137634908185,4.0,"Brightwood Park, Crestwood, Petworth",150938.0,2.8395789450878364,Q4,False
-110010023021,0.0,0.6997969071584472,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",117460.0,0.5883055768537087,Q3,False
-110010023022,1.0,0.963358432636585,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",117460.0,1.0186626989521261,Q3,False
-110010023023,1.0,1.1865597751409331,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",117460.0,0.9146788588805406,Q3,False
-110010024001,32.0,27.243864002996094,4.0,"Brightwood Park, Crestwood, Petworth",167632.0,1.1683953724072378,Q5 (highest income),False
-110010024002,30.0,15.036520503374625,4.0,"Brightwood Park, Crestwood, Petworth",167632.0,1.9330876665843164,Q5 (highest income),False
-110010024003,61.0,12.70532286315517,4.0,"Brightwood Park, Crestwood, Petworth",167632.0,4.52378981648643,Q5 (highest income),False
-110010024004,28.0,21.948435927354378,4.0,"Brightwood Park, Crestwood, Petworth",167632.0,1.263702680731814,Q5 (highest income),False
-110010025011,33.0,13.957526921156669,4.0,"Brightwood Park, Crestwood, Petworth",150568.0,2.2731030456584844,Q4,False
-110010025012,35.0,22.778627067565658,4.0,"Brightwood Park, Crestwood, Petworth",150568.0,1.513964616111266,Q4,False
-110010025031,32.0,25.08637610056879,4.0,"Brightwood Park, Crestwood, Petworth",108767.0,1.2650281462161572,Q3,False
-110010025032,40.0,20.584268979013142,4.0,"Brightwood Park, Crestwood, Petworth",108767.0,1.8995315542011266,Q3,False
-110010025041,34.0,21.44839089509619,4.0,"Brightwood Park, Crestwood, Petworth",114306.0,1.559131795394996,Q3,False
-110010025042,13.0,36.31014354905263,4.0,"Brightwood Park, Crestwood, Petworth",114306.0,0.37523307787850857,Q3,True
-110010026001,0.0,2.142714678983608,4.0,"Brightwood Park, Crestwood, Petworth",250001.0,0.31819624183109496,Q5 (highest income),False
-110010026002,5.0,5.247133903039879,4.0,Rock Creek Park,250001.0,0.9604404344655358,Q5 (highest income),False
-110010027021,29.0,34.002392721967176,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",132768.0,0.8570842638758315,Q3,False
-110010027022,28.0,5.432632094986649,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",132768.0,4.508263424951896,Q3,False
-110010027023,25.0,13.889195229727028,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",132768.0,1.746232727749428,Q3,False
-110010027024,53.0,7.678630173390204,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",132768.0,6.222180104594265,Q3,False
-110010027031,12.0,24.027909583506258,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",145489.0,0.519420128022485,Q4,True
-110010027032,42.0,21.139689551337856,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",145489.0,1.9422133223815508,Q4,False
-110010027041,14.0,10.849670736150951,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",76226.0,1.2658579579125377,Q2,False
-110010027042,0.0,2.26467524771238,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",76226.0,0.30630918058410833,Q2,False
-110010028011,17.0,35.82153198069579,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",81000.0,0.48884440792514433,Q2,True
-110010028012,28.0,28.139938436429627,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",81000.0,0.9951977099493566,Q2,False
-110010028021,17.0,20.799435275731504,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",87071.0,0.8257094632189269,Q2,False
-110010028022,10.0,4.659696871719839,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",87071.0,1.9435669876534178,Q2,False
-110010028023,1.0,11.579803444804039,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",87071.0,0.15898499597194263,Q2,False
-110010029001,59.0,46.20121955780891,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",204324.0,1.2711535964979888,Q5 (highest income),False
-110010029002,39.0,21.27131493360615,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",204324.0,1.7960322558073243,Q5 (highest income),False
-110010030001,54.0,39.60713708127587,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",92730.0,1.354441705405544,Q2,False
-110010030002,35.0,28.29064997628483,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",92730.0,1.2290611519084553,Q2,False
-110010031001,59.0,66.04315630941313,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",170446.0,0.8949459318873947,Q5 (highest income),False
-110010031002,63.0,61.444702901457504,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",170446.0,1.0249067899481703,Q5 (highest income),False
-110010032001,36.0,49.49410151268653,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",135272.0,0.7327588548279017,Q4,False
-110010032002,40.0,49.5834008476311,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",135272.0,0.8105425754883797,Q4,False
-110010032003,50.0,42.702921239419844,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",135272.0,1.1669700457917724,Q4,False
-110010032004,36.0,63.49515390764314,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",135272.0,0.5736865137647998,Q4,True
-110010033011,35.0,21.082870507079498,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",225208.0,1.6302228457327972,Q5 (highest income),False
-110010033012,48.0,42.48372163184915,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",225208.0,1.1268584693567378,Q5 (highest income),False
-110010033013,16.0,17.941005665556066,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",225208.0,0.897523621510459,Q5 (highest income),False
-110010033021,50.0,37.09164398185663,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",165598.0,1.338876316923778,Q4,False
-110010033022,56.0,26.883620754440024,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",165598.0,2.0442108470049987,Q4,False
-110010034001,34.0,20.92794291449831,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",109167.0,1.5961369534968421,Q3,False
-110010034002,0.0,0.562109488328759,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",109167.0,0.6401599935673278,Q3,False
-110010034003,42.0,80.78181023030105,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",109167.0,0.5257892907837352,Q3,True
-110010034004,5.0,4.904863708295096,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",109167.0,1.0161115135597893,Q3,False
-110010034005,0.0,4.135514771364839,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",109167.0,0.1947224464382633,Q3,False
-110010035001,92.0,39.73550278056762,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",98000.0,2.283020796403783,Q2,False
-110010035002,9.0,23.22617013450496,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",98000.0,0.4127767593672247,Q2,True
-110010035003,1.0,7.867393499612266,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",98000.0,0.22554542099518327,Q2,False
-110010036001,42.0,6.539399301095985,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",148835.0,5.703372149787741,Q4,False
-110010036002,72.0,41.94602436612673,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",148835.0,1.6998080981292896,Q4,False
-110010036003,64.0,33.862606328600116,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",148835.0,1.8644618645931865,Q4,False
-110010037011,55.0,11.879623953618196,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",134508.0,4.347953030435198,Q4,False
-110010037012,27.0,3.1168087859873137,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",134508.0,6.801384629596029,Q4,False
-110010037021,7.0,9.56053786609247,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",106875.0,0.7575371729584166,Q3,False
-110010037022,79.0,32.9830374128156,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",106875.0,2.3541156438779836,Q3,False
-110010038011,5.0,7.959927257773954,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",155694.0,0.6696482937173608,Q4,False
-110010038012,27.0,35.969089528194054,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",155694.0,0.7573894936916453,Q4,False
-110010038021,4.0,69.47748656447247,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",153279.0,0.07094464124264738,Q4,True
-110010038022,40.0,14.633225990499044,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",153279.0,2.622619286954426,Q4,False
-110010038023,3.0,2.429257857249506,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",153279.0,1.166433136996081,Q4,False
-110010039011,5.0,4.151410742554893,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",134922.0,1.1647294886495967,Q4,False
-110010039012,18.0,42.706007171743984,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",134922.0,0.4347228500040959,Q4,True
-110010039021,7.0,5.664734848082557,1.0,Rock Creek Park,137574.0,1.2003478281362683,Q4,False
-110010039022,13.0,25.772272475629805,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",137574.0,0.5229290869030219,Q4,True
-110010040011,21.0,24.989131333312496,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",128452.0,0.8465077080818286,Q3,False
-110010040012,5.0,1.8574772785421134,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",128452.0,2.099754229038421,Q3,False
-110010040013,3.0,6.143330761107841,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",128452.0,0.5599628707910552,Q3,False
-110010040014,0.0,2.7474525018320124,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",128452.0,0.266847945240435,Q3,False
-110010040021,12.0,22.82351650306608,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",169792.0,0.5456793080201616,Q5 (highest income),True
-110010040022,41.0,22.23304212810797,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",169792.0,1.80777014772367,Q5 (highest income),False
-110010040023,1.0,2.4125069180735212,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",169792.0,0.5860793979368896,Q5 (highest income),False
-110010041001,16.0,16.27136426279157,2.0,"Kalorama Heights, Adams Morgan, Lanier Heights",185759.0,0.9842881975816941,Q5 (highest income),False
-110010041002,3.0,5.954229618051523,2.0,"Kalorama Heights, Adams Morgan, Lanier Heights",185759.0,0.57518952057852,Q5 (highest income),False
-110010041003,15.0,6.87076394975809,2.0,"Kalorama Heights, Adams Morgan, Lanier Heights",185759.0,2.0328395187727315,Q5 (highest income),False
-110010042011,10.0,17.340217237823467,2.0,"Dupont Circle, Connecticut Avenue/K Street",154142.0,0.5997747931422774,Q4,False
-110010042012,36.0,16.35328594461224,1.0,"Dupont Circle, Connecticut Avenue/K Street",154142.0,2.132161028066709,Q4,False
-110010042013,55.0,16.517375011600738,2.0,"Dupont Circle, Connecticut Avenue/K Street",154142.0,3.196826006345954,Q4,False
-110010042021,24.0,33.805237990163356,2.0,"Dupont Circle, Connecticut Avenue/K Street",105766.0,0.718282690871572,Q3,False
-110010042022,20.0,44.003529636254086,2.0,"Dupont Circle, Connecticut Avenue/K Street",105766.0,0.4666300659022699,Q3,True
-110010043001,21.0,1.2284732994072955,2.0,"Dupont Circle, Connecticut Avenue/K Street",132809.0,9.87222956893911,Q4,False
-110010043002,26.0,36.18291897774977,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",132809.0,0.7261398712714506,Q4,False
-110010043003,8.0,24.328949898016727,1.0,"Dupont Circle, Connecticut Avenue/K Street",132809.0,0.3553246398384919,Q4,True
-110010043004,31.0,35.53026141661497,2.0,"Howard University, Le Droit Park, Cardozo/Shaw",132809.0,0.8759860663204977,Q4,False
-110010044011,19.0,26.716815762321428,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",213300.0,0.7215836108846327,Q5 (highest income),False
-110010044012,16.0,41.81359345276836,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",213300.0,0.3970701505995818,Q5 (highest income),True
-110010044013,15.0,30.48199786931078,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",213300.0,0.508226957717861,Q5 (highest income),True
-110010044021,69.0,38.46817164579453,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",186375.0,1.7735810168307795,Q5 (highest income),False
-110010044022,68.0,67.08583255571028,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",186375.0,1.013426691133456,Q5 (highest income),False
-110010046001,102.0,33.54065713693164,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",168869.0,2.9819930637587695,Q5 (highest income),False
-110010046002,79.0,31.59140525768007,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",168869.0,2.4546348758971734,Q5 (highest income),False
-110010047021,1.0,10.012811063781996,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",140069.0,0.18160667502754418,Q4,False
-110010047022,0.0,1.3961833520085944,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",140069.0,0.4173303345763389,Q4,False
-110010047023,0.0,2.2417433215876317,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",140069.0,0.3084759960298935,Q4,False
-110010047024,4.0,5.503958706611362,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",140069.0,0.7687625683904531,Q4,False
-110010047025,0.0,1.184147867660444,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",140069.0,0.4578444595288105,Q4,False
-110010047031,0.0,5.600908954512749,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",89432.0,0.15149428766417755,Q2,False
-110010047032,1.0,3.462005514733586,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",89432.0,0.4482289395196802,Q2,False
-110010047033,0.0,2.8896374388028527,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",89432.0,0.25709337071472105,Q2,False
-110010047034,2.0,3.1375935137573077,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",89432.0,0.7250591412677776,Q2,False
-110010047041,1.0,3.9605252733411143,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",12117.0,0.4031831086011017,Q1 (lowest income),False
-110010047042,9.0,3.8717668688946327,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",12117.0,2.0526433774670596,Q1 (lowest income),False
-110010048011,33.0,7.7876781374253365,2.0,"Shaw, Logan Circle",167528.0,3.869053857946772,Q4,False
-110010048012,40.0,18.70711060875608,2.0,"Howard University, Le Droit Park, Cardozo/Shaw",167528.0,2.080467340645222,Q4,False
-110010048013,69.0,13.997478563647254,2.0,"Shaw, Logan Circle",167528.0,4.667451245416324,Q4,False
-110010048021,28.0,42.33451429303362,2.0,"Shaw, Logan Circle",99632.0,0.6692125312377618,Q2,False
-110010048022,19.0,96.15519359675575,2.0,"Shaw, Logan Circle",99632.0,0.20585621066239992,Q2,True
-110010049011,15.0,30.453507200059608,2.0,"Shaw, Logan Circle",114241.0,0.5086873110280585,Q3,True
-110010049012,19.0,18.07450131980317,2.0,"Shaw, Logan Circle",114241.0,1.0485202032116026,Q3,False
-110010049013,21.0,11.742026191124399,2.0,"Shaw, Logan Circle",114241.0,1.7265699873795854,Q3,False
-110010049021,17.0,20.60568994253967,2.0,"Shaw, Logan Circle",163036.0,0.8331138717565141,Q4,False
-110010049022,15.0,4.674619561289077,2.0,"Shaw, Logan Circle",163036.0,2.819572277434816,Q4,False
-110010049023,7.0,19.4346820066615,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",163036.0,0.39149128904438446,Q4,True
-110010050011,41.0,16.643639584920578,2.0,"Shaw, Logan Circle",250001.0,2.380461230680317,Q5 (highest income),False
-110010050012,35.0,26.205900804611257,2.0,"Shaw, Logan Circle",250001.0,1.3232423457891234,Q5 (highest income),False
-110010050031,20.0,20.840316826019027,2.0,"Shaw, Logan Circle",151096.0,0.9615245130044116,Q4,False
-110010050032,0.0,3.1285600055095464,2.0,"Shaw, Logan Circle",151096.0,0.24221520304064953,Q4,False
-110010050041,3.0,2.9200766862188394,2.0,"Shaw, Logan Circle",86063.0,1.0203882016038446,Q2,False
-110010050042,9.0,49.778258603526226,2.0,"Shaw, Logan Circle",86063.0,0.1969346778525714,Q2,True
-110010050043,8.0,7.131595254901044,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",86063.0,1.1067938968771909,Q2,False
-110010052021,12.0,2.345960018141607,2.0,"Shaw, Logan Circle",184596.0,3.8852825286359463,Q5 (highest income),False
-110010052022,32.0,39.51080311988533,2.0,"Dupont Circle, Connecticut Avenue/K Street",184596.0,0.8145975260559931,Q5 (highest income),False
-110010052023,63.0,4.348791101421086,2.0,"Shaw, Logan Circle",184596.0,11.965320534390706,Q5 (highest income),False
-110010052031,2.0,2.8276377781090893,2.0,"Shaw, Logan Circle",113021.0,0.7837732235682043,Q3,False
-110010052032,9.0,9.004544505546756,2.0,"Shaw, Logan Circle",113021.0,0.9995457558768182,Q3,False
-110010052033,7.0,4.864787437812238,2.0,"Shaw, Logan Circle",113021.0,1.364073307827209,Q3,False
-110010053021,20.0,3.2053920952866077,2.0,"Dupont Circle, Connecticut Avenue/K Street",129688.0,4.993589069503589,Q3,False
-110010053022,6.0,7.400916497057221,2.0,"Dupont Circle, Connecticut Avenue/K Street",129688.0,0.8332424209253894,Q3,False
-110010053023,36.0,10.87188928077338,2.0,"Dupont Circle, Connecticut Avenue/K Street",129688.0,3.1166058851240974,Q3,False
-110010053031,2.0,3.310572120368283,2.0,"Dupont Circle, Connecticut Avenue/K Street",94583.0,0.6959633005151271,Q2,False
-110010053032,30.0,29.185456640307702,2.0,"Dupont Circle, Connecticut Avenue/K Street",94583.0,1.0269846293663356,Q2,False
-110010053033,16.0,2.120715642589429,2.0,"Dupont Circle, Connecticut Avenue/K Street",94583.0,5.44746844858129,Q2,False
-110010055011,2.0,7.35838879319879,2.0,"West End, Foggy Bottom, GWU",151250.0,0.35892084876945374,Q4,False
-110010055012,3.0,29.16950606098979,2.0,"West End, Foggy Bottom, GWU",151250.0,0.1325842057842683,Q4,True
-110010055021,36.0,12.62763033458974,2.0,"Dupont Circle, Connecticut Avenue/K Street",105000.0,2.7150721799435926,Q3,False
-110010055022,36.0,2.8141018840999292,2.0,"Dupont Circle, Connecticut Avenue/K Street",105000.0,9.700842065662712,Q3,False
-110010055023,2.0,4.97245620560891,2.0,"Dupont Circle, Connecticut Avenue/K Street",105000.0,0.5023059017465229,Q3,False
-110010055031,3.0,11.280833998578407,2.0,"West End, Foggy Bottom, GWU",117778.0,0.3257107783122081,Q3,False
-110010055032,1.0,4.760287315288886,2.0,"West End, Foggy Bottom, GWU",117778.0,0.34720490325050696,Q3,False
-110010056011,14.0,5.381686036034162,2.0,"West End, Foggy Bottom, GWU",81393.0,2.350476020804309,Q2,False
-110010056012,4.0,3.8297051828093456,2.0,"West End, Foggy Bottom, GWU",81393.0,1.0352598783455345,Q2,False
-110010056013,27.0,17.198465795116576,2.0,"West End, Foggy Bottom, GWU",81393.0,1.5385912370433772,Q2,False
-110010056021,0.0,3.6894558565329914,2.0,"West End, Foggy Bottom, GWU",123710.0,0.21324435725455793,Q3,False
-110010056022,0.0,1.3568483717344233,2.0,"West End, Foggy Bottom, GWU",123710.0,0.4242954328301113,Q3,False
-110010056023,7.0,5.901446324973883,2.0,"West End, Foggy Bottom, GWU",123710.0,1.1591773120151412,Q3,False
-110010058011,0.0,4.198684486700164,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",144219.0,0.1923563552583943,Q4,False
-110010058012,8.0,26.40819240929002,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",144219.0,0.32836897324719033,Q4,True
-110010058021,1.0,0.4946196479218559,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",198295.0,1.3381330847489081,Q5 (highest income),False
-110010058022,3.0,0.4882925705905393,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",198295.0,2.687643598471261,Q5 (highest income),False
-110010058023,0.0,1.4992097107671194,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",198295.0,0.4001264862615531,Q5 (highest income),False
-110010058024,0.0,3.058264078079519,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",198295.0,0.2464107758293608,Q5 (highest income),False
-110010058025,2.0,7.457300132967147,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",198295.0,0.35472313301331126,Q5 (highest income),False
-110010059001,2.0,1.5550763861978911,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",133161.0,1.1741331946886262,Q4,False
-110010059002,1.0,12.521200929754475,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",133161.0,0.1479158552846324,Q4,False
-110010064001,3.0,61.8222272216596,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",91471.0,0.06367173175644585,Q2,True
-110010064002,21.0,38.931497874956214,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",91471.0,0.5509435200475591,Q2,True
-110010065001,24.0,22.935397054116656,6.0,"Capitol Hill, Lincoln Park",134939.0,1.0444781819777769,Q4,False
-110010065002,11.0,18.597122780189217,6.0,"Capitol Hill, Lincoln Park",134939.0,0.6123347868254839,Q4,False
-110010066001,9.0,35.948443070591395,6.0,"Capitol Hill, Lincoln Park",192279.0,0.27064739861689496,Q5 (highest income),True
-110010066002,4.0,11.863849747647711,6.0,"Capitol Hill, Lincoln Park",192279.0,0.38868613191896945,Q5 (highest income),False
-110010067001,16.0,18.38874027819369,6.0,"Capitol Hill, Lincoln Park",177963.0,0.876797551366435,Q5 (highest income),False
-110010067002,16.0,23.52393645031207,6.0,"Capitol Hill, Lincoln Park",177963.0,0.6932002957373375,Q5 (highest income),False
-110010067003,21.0,7.311942148256381,6.0,"Capitol Hill, Lincoln Park",177963.0,2.6467941676681424,Q5 (highest income),False
-110010068011,31.0,24.05719039430927,7.0,"Capitol Hill, Lincoln Park",180268.0,1.277078535000776,Q5 (highest income),False
-110010068012,16.0,5.182306943722127,7.0,"Capitol Hill, Lincoln Park",180268.0,2.7497825900188904,Q5 (highest income),False
-110010068021,23.0,11.104731160375229,7.0,"Capitol Hill, Lincoln Park",163382.0,1.9826958304174378,Q4,False
-110010068022,23.0,29.278457843963487,6.0,"Capitol Hill, Lincoln Park",163382.0,0.7926427469880141,Q4,False
-110010068041,0.0,1.4093195904136393,7.0,"Capitol Hill, Lincoln Park",0.0,0.4150549408135253,Q1 (lowest income),False
-110010069001,11.0,13.935412870696636,6.0,"Capitol Hill, Lincoln Park",207688.0,0.8034595430263644,Q5 (highest income),False
-110010069002,4.0,16.331546256839804,6.0,"Capitol Hill, Lincoln Park",207688.0,0.28849128207627617,Q5 (highest income),False
-110010070001,6.0,14.756762804699227,6.0,"Capitol Hill, Lincoln Park",180036.0,0.44425368882955774,Q5 (highest income),False
-110010070002,12.0,35.05017007853725,6.0,"Capitol Hill, Lincoln Park",180036.0,0.36060856222533194,Q5 (highest income),True
-110010071001,13.0,0.9941853095205219,6.0,"Near Southeast, Navy Yard",170114.0,7.020410757797696,Q5 (highest income),False
-110010071002,8.0,52.0220930702823,6.0,"Capitol Hill, Lincoln Park",170114.0,0.16974056433551657,Q5 (highest income),True
-110010071003,21.0,9.692902573676896,6.0,"Capitol Hill, Lincoln Park",170114.0,2.0574394883348317,Q5 (highest income),False
-110010072011,2.0,8.172556203416354,8.0,"Near Southeast, Navy Yard",134355.0,0.32706259121995224,Q4,False
-110010072012,7.0,19.14752505414527,8.0,"Near Southeast, Navy Yard",134355.0,0.3970711032000446,Q4,True
-110010072013,0.0,0.38257393296509284,8.0,"Near Southeast, Navy Yard",134355.0,0.7232886257701837,Q4,False
-110010072014,0.0,1.073411172925839,8.0,"Arboretum, Anacostia River",134355.0,0.4822970055615532,Q4,False
-110010072021,1.0,4.813880477350344,6.0,"Near Southeast, Navy Yard",140906.0,0.34400431997038455,Q4,False
-110010072022,0.0,11.719816110349347,6.0,"Near Southeast, Navy Yard",140906.0,0.0786174887533445,Q4,False
-110010072023,0.0,2.1628134268791355,6.0,"Near Southeast, Navy Yard",140906.0,0.3161741984214152,Q4,False
-110010072031,6.0,4.730414641009999,8.0,"Near Southeast, Navy Yard",158221.0,1.2215520932646216,Q4,False
-110010072032,8.0,5.961555610583318,8.0,"Near Southeast, Navy Yard",158221.0,1.2928144948404539,Q4,False
-110010072033,0.0,5.4308742774029035,8.0,"Near Southeast, Navy Yard",158221.0,0.1554998522539688,Q4,False
-110010072034,7.0,10.045497098109434,8.0,"Near Southeast, Navy Yard",158221.0,0.7242770451109252,Q4,False
-110010073011,0.0,1.8771110122013996,8.0,"National Mall, Potomac River",123977.0,0.347570877786484,Q3,False
-110010073012,0.0,1.288791515976446,8.0,"National Mall, Potomac River",123977.0,0.4369117907942695,Q3,False
-110010073013,0.0,1.7119612384529688,8.0,Joint Base Anacostia-Bolling,123977.0,0.36873683363204973,Q3,False
-110010073041,0.0,3.8438785846383015,8.0,"Congress Heights, Bellevue, Washington Highlands",44044.0,0.20644613247973706,Q1 (lowest income),False
-110010073042,3.0,4.831902828790642,8.0,"Congress Heights, Bellevue, Washington Highlands",44044.0,0.6858824842301904,Q1 (lowest income),False
-110010073043,0.0,18.95313571354124,8.0,"Douglas, Shipley Terrace",44044.0,0.050117435893614844,Q1 (lowest income),True
-110010073044,2.0,3.0947909612538442,8.0,"Douglas, Shipley Terrace",44044.0,0.7326381318086591,Q1 (lowest income),False
-110010074011,10.0,0.3741795656761033,8.0,"Sheridan, Barry Farm, Buena Vista",31862.0,8.004776285978277,Q1 (lowest income),False
-110010074012,0.0,44.573494761550776,8.0,"Sheridan, Barry Farm, Buena Vista",31862.0,0.02194257880007208,Q1 (lowest income),True
-110010074031,5.0,12.216273076190404,8.0,"Douglas, Shipley Terrace",0.0,0.45398577688359193,Q1 (lowest income),False
-110010074032,1.0,10.800285344730616,8.0,"Douglas, Shipley Terrace",0.0,0.16948742691998497,Q1 (lowest income),False
-110010074041,4.0,10.763667338382696,8.0,"Douglas, Shipley Terrace",49901.0,0.4250375207131125,Q1 (lowest income),False
-110010074042,2.0,19.39607775780421,8.0,"Douglas, Shipley Terrace",49901.0,0.14708710349234186,Q1 (lowest income),True
-110010074043,1.0,1.7787128328046242,8.0,"Douglas, Shipley Terrace",49901.0,0.7197577152948728,Q1 (lowest income),False
-110010074061,1.0,7.850085358664181,8.0,"Sheridan, Barry Farm, Buena Vista",46250.0,0.22598652091440133,Q1 (lowest income),False
-110010074062,1.0,6.319566485960684,8.0,"Sheridan, Barry Farm, Buena Vista",46250.0,0.27324022588442987,Q1 (lowest income),False
-110010074071,0.0,3.222170747547206,8.0,"Sheridan, Barry Farm, Buena Vista",51750.0,0.23684499272819126,Q1 (lowest income),False
-110010074072,6.0,32.95067384592815,8.0,"Sheridan, Barry Farm, Buena Vista",51750.0,0.20618147468196835,Q1 (lowest income),True
-110010074073,4.0,5.350013024420168,8.0,"Sheridan, Barry Farm, Buena Vista",51750.0,0.7873999597751313,Q1 (lowest income),False
-110010074081,0.0,7.931317373320861,8.0,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",26262.0,0.1119655654592619,Q1 (lowest income),False
-110010074082,2.0,13.273800694660181,8.0,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",26262.0,0.21017527596012306,Q1 (lowest income),False
-110010074091,1.0,8.551565736307317,8.0,"Douglas, Shipley Terrace",0.0,0.20938975401672835,Q1 (lowest income),False
-110010074092,0.0,6.733996115680007,8.0,"Douglas, Shipley Terrace",0.0,0.12929926328416258,Q1 (lowest income),False
-110010074093,0.0,8.505217869235842,8.0,"Douglas, Shipley Terrace",0.0,0.10520537390695217,Q1 (lowest income),False
-110010075021,1.0,12.811550127653021,8.0,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",46068.0,0.14480633828317846,Q1 (lowest income),False
-110010075022,3.0,2.1492180745634175,8.0,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",46068.0,1.2701565611821048,Q1 (lowest income),False
-110010075023,0.0,12.28427538413762,8.0,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",46068.0,0.07527697003286095,Q1 (lowest income),False
-110010075031,14.0,16.2513851241667,8.0,Historic Anacostia,47857.0,0.8694953994730061,Q1 (lowest income),False
-110010075032,4.0,47.30666943711424,8.0,Historic Anacostia,47857.0,0.10350537634371615,Q1 (lowest income),True
-110010075041,0.0,21.43595627010097,8.0,Historic Anacostia,39905.0,0.04457131169098591,Q1 (lowest income),True
-110010075042,3.0,6.17688255199245,8.0,Historic Anacostia,39905.0,0.5573450549068157,Q1 (lowest income),False
-110010076011,7.0,6.130003942798854,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",69273.0,1.1220190148814464,Q1 (lowest income),False
-110010076012,26.0,7.280757311030871,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",69273.0,3.260571344607945,Q1 (lowest income),False
-110010076013,32.0,28.525572570723703,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",69273.0,1.117675192274557,Q1 (lowest income),False
-110010076014,8.0,16.257627907079105,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",69273.0,0.5215085206645454,Q1 (lowest income),False
-110010076015,13.0,25.254740841981587,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",69273.0,0.5332370288574269,Q1 (lowest income),True
-110010076031,4.0,5.838813187033804,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",78877.0,0.7311210093411907,Q2,False
-110010076032,1.0,2.7347146344738045,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",78877.0,0.5355161493568266,Q2,False
-110010076033,1.0,2.194055621610114,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",78877.0,0.626163172134055,Q2,False
-110010076034,1.0,4.219127423033147,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",78877.0,0.3832058192665625,Q2,False
-110010076041,5.0,18.729531043747233,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",83813.0,0.30411265157270656,Q2,True
-110010076042,1.0,16.69393299000773,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",83813.0,0.11303309451490842,Q2,False
-110010076043,0.0,1.4283064533602465,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",83813.0,0.4118096373776128,Q2,False
-110010076044,1.0,4.861960276833659,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",83813.0,0.34118279646212496,Q2,False
-110010076051,4.0,5.024779480420687,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",56201.0,0.829905893858686,Q1 (lowest income),False
-110010076052,1.0,9.01995817648583,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",56201.0,0.19960163154108435,Q1 (lowest income),False
-110010076053,0.0,2.8999624536591138,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",56201.0,0.25641272496399464,Q1 (lowest income),False
-110010076054,2.0,3.741850068417717,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",56201.0,0.6326644572718543,Q1 (lowest income),False
-110010077031,3.0,11.853463735972095,7.0,"Capitol View, Marshall Heights, Benning Heights",76731.0,0.31120016224151925,Q2,False
-110010077032,1.0,16.462841887825615,7.0,"River Terrace, Benning, Greenway, Dupont Park",76731.0,0.11452889586054826,Q2,False
-110010077033,2.0,12.40290398360147,7.0,"River Terrace, Benning, Greenway, Dupont Park",76731.0,0.22383208920025965,Q2,False
-110010077034,0.0,6.395773537210734,7.0,"River Terrace, Benning, Greenway, Dupont Park",76731.0,0.1352123608123814,Q2,False
-110010077071,7.0,23.181888192308616,7.0,"Capitol View, Marshall Heights, Benning Heights",75590.0,0.33082610987112704,Q2,True
-110010077072,11.0,19.53413760335416,7.0,"Capitol View, Marshall Heights, Benning Heights",75590.0,0.5843926943413418,Q2,True
-110010077073,6.0,30.547445464294523,7.0,"Capitol View, Marshall Heights, Benning Heights",75590.0,0.22188801333922956,Q2,True
-110010077081,1.0,7.442898289259507,7.0,"River Terrace, Benning, Greenway, Dupont Park",48948.0,0.2368854783604662,Q1 (lowest income),False
-110010077082,3.0,29.656891758276664,7.0,"River Terrace, Benning, Greenway, Dupont Park",48948.0,0.13047637156236136,Q1 (lowest income),True
-110010077091,10.0,17.88813022660975,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",37929.0,0.5823763320152839,Q1 (lowest income),False
-110010077092,3.0,15.893575496008454,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",37929.0,0.23677640064680827,Q1 (lowest income),False
-110010078031,5.0,20.788726461435107,7.0,"Mayfair, Hillbrook, Mahaning Heights",39443.0,0.27537176211834513,Q1 (lowest income),True
-110010078032,5.0,5.76469232915831,7.0,"Mayfair, Hillbrook, Mahaning Heights",39443.0,0.8869582987740322,Q1 (lowest income),False
-110010078033,2.0,17.704066485432634,7.0,"Capitol View, Marshall Heights, Benning Heights",39443.0,0.16039292858248244,Q1 (lowest income),False
-110010078034,14.0,36.98184177746336,7.0,"Mayfair, Hillbrook, Mahaning Heights",39443.0,0.3949255564773664,Q1 (lowest income),True
-110010078041,2.0,38.155782429662494,7.0,"Mayfair, Hillbrook, Mahaning Heights",36679.0,0.07661703620375998,Q1 (lowest income),True
-110010078042,11.0,17.633241610527087,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",36679.0,0.6440103257835956,Q1 (lowest income),False
-110010078043,35.0,10.89442852525489,7.0,"Capitol View, Marshall Heights, Benning Heights",36679.0,3.026627124082747,Q1 (lowest income),False
-110010078061,5.0,43.49858769825654,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",54207.0,0.13483573997192455,Q1 (lowest income),True
-110010078062,27.0,14.894818272527646,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",54207.0,1.7615803792104223,Q1 (lowest income),False
-110010078071,9.0,13.036314767077037,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",69405.0,0.7124377135981277,Q1 (lowest income),False
-110010078072,11.0,10.310230557956636,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",69405.0,1.0609863290150277,Q1 (lowest income),False
-110010078081,12.0,16.408334957599287,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",67611.0,0.7467687192177498,Q1 (lowest income),False
-110010078082,11.0,17.687752386800785,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",67611.0,0.6421317958212908,Q1 (lowest income),False
-110010078083,2.0,34.23785331587842,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",67611.0,0.08513571962251683,Q1 (lowest income),True
-110010078091,29.0,61.066961072015005,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",88425.0,0.48334894252663063,Q2,True
-110010078092,11.0,48.35577293801455,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",88425.0,0.2431326526903081,Q2,True
-110010079011,27.0,27.618947369353535,7.0,"Union Station, Stanton Park, Kingman Park",101778.0,0.9783728115026225,Q2,False
-110010079012,70.0,14.256394812582087,7.0,"Union Station, Stanton Park, Kingman Park",101778.0,4.653786223560868,Q2,False
-110010079013,30.0,53.51079792808178,7.0,"Union Station, Stanton Park, Kingman Park",101778.0,0.5686946656128481,Q2,True
-110010079014,41.0,21.49459025887404,7.0,"Union Station, Stanton Park, Kingman Park",101778.0,1.8671155827535528,Q2,False
-110010079031,173.0,27.82833411195789,7.0,"Union Station, Stanton Park, Kingman Park",114722.0,6.0357285760686885,Q3,False
-110010080011,27.0,13.208929939081688,6.0,"Union Station, Stanton Park, Kingman Park",202236.0,1.9705917419570032,Q5 (highest income),False
-110010080012,37.0,32.814469431080376,6.0,"Union Station, Stanton Park, Kingman Park",202236.0,1.1237792767220685,Q5 (highest income),False
-110010080013,14.0,7.961531760306692,6.0,"Union Station, Stanton Park, Kingman Park",202236.0,1.6738209941340043,Q5 (highest income),False
-110010080021,24.0,9.501656981473168,7.0,"Capitol Hill, Lincoln Park",146711.0,2.380576707476215,Q4,False
-110010080022,43.0,9.046883962254576,6.0,"Capitol Hill, Lincoln Park",146711.0,4.37946732193831,Q4,False
-110010081001,23.0,6.382792307209854,6.0,"Union Station, Stanton Park, Kingman Park",184519.0,3.2508025420899607,Q5 (highest income),False
-110010081002,9.0,68.30376622258383,6.0,"Union Station, Stanton Park, Kingman Park",184519.0,0.14429230249742656,Q5 (highest income),True
-110010081003,18.0,1.1331609946988879,6.0,"Capitol Hill, Lincoln Park",184519.0,8.906969538265908,Q5 (highest income),False
-110010082001,4.0,3.6648873902280963,6.0,"Capitol Hill, Lincoln Park",121932.0,1.0718372345866034,Q3,False
-110010082002,5.0,0.5991791548279543,6.0,"Capitol Hill, Lincoln Park",121932.0,3.7519248433709746,Q3,False
-110010082003,4.0,2.238462687600798,6.0,"Capitol Hill, Lincoln Park",121932.0,1.5439424450198715,Q3,False
-110010082004,5.0,6.4020964474647775,6.0,"Union Station, Stanton Park, Kingman Park",121932.0,0.8105811701568687,Q3,False
-110010083011,23.0,62.92256415643674,6.0,"Union Station, Stanton Park, Kingman Park",160625.0,0.3754542752894761,Q4,True
-110010083012,14.0,17.191388421820363,6.0,"Union Station, Stanton Park, Kingman Park",160625.0,0.8245659788126821,Q4,False
-110010083021,16.0,3.29929681727601,6.0,"Union Station, Stanton Park, Kingman Park",204000.0,3.954134995213246,Q5 (highest income),False
-110010083022,30.0,27.424172548966254,6.0,"Union Station, Stanton Park, Kingman Park",204000.0,1.0906210179591465,Q5 (highest income),False
-110010083023,28.0,10.032404386472358,6.0,"Union Station, Stanton Park, Kingman Park",204000.0,2.6286201071054855,Q5 (highest income),False
-110010084021,22.0,27.892374333657298,6.0,"Union Station, Stanton Park, Kingman Park",100455.0,0.7960578017711354,Q2,False
-110010084022,20.0,9.677298612163902,6.0,"Union Station, Stanton Park, Kingman Park",100455.0,1.9667896125033126,Q2,False
-110010084101,66.0,59.44666037719452,6.0,"Union Station, Stanton Park, Kingman Park",222592.0,1.108415247127167,Q5 (highest income),False
-110010087011,54.0,9.911514287811855,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",213672.0,5.040546944197738,Q5 (highest income),False
-110010087012,70.0,13.253166562411451,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",213672.0,4.981349210304024,Q5 (highest income),False
-110010087021,64.0,54.15339058595267,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",112720.0,1.1785313524596839,Q3,False
-110010087022,2.0,3.116525552404252,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",112720.0,0.7287699206064332,Q3,False
-110010087023,29.0,10.72932598846058,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",112720.0,2.5576917232511294,Q3,False
-110010088021,20.0,9.59567997556089,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",80199.0,1.9819398140031452,Q2,False
-110010088022,25.0,23.407577346647503,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",80199.0,1.0652429624921878,Q2,False
-110010088023,31.0,13.958143670910317,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",80199.0,2.1393028910553684,Q2,False
-110010088024,19.0,19.70897466280865,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",80199.0,0.9657648592287912,Q2,False
-110010088031,10.0,28.153628519796467,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",102585.0,0.3773115237621473,Q2,True
-110010088032,7.0,12.632596603382163,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",102585.0,0.5868287775797055,Q2,False
-110010088041,7.0,38.58091031864617,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",103184.0,0.20211763538523975,Q3,True
-110010088042,34.0,19.169036045111543,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",103184.0,1.7353333060497504,Q3,False
-110010089031,2.0,19.297563364987628,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",60433.0,0.14780099197398558,Q1 (lowest income),True
-110010089032,49.0,9.724970746740983,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",60433.0,4.662017378014164,Q1 (lowest income),False
-110010089033,7.0,17.989224765665593,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",60433.0,0.42129155343217567,Q1 (lowest income),True
-110010089041,19.0,42.201847277725456,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",66134.0,0.4629431670231344,Q1 (lowest income),True
-110010089042,17.0,14.028231902492811,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",66134.0,1.1977456906966046,Q1 (lowest income),False
-110010089043,0.0,15.036679775512262,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",66134.0,0.06235704734386373,Q1 (lowest income),False
-110010090001,0.0,13.137475116010247,5.0,"Woodridge, Fort Lincoln, Gateway",70909.0,0.0707339883390869,Q2,False
-110010090002,2.0,3.321936565314088,5.0,"Woodridge, Fort Lincoln, Gateway",70909.0,0.6941332790667605,Q2,False
-110010090003,2.0,4.899179596828396,5.0,"Woodridge, Fort Lincoln, Gateway",70909.0,0.5085452901981327,Q2,False
-110010091021,20.0,28.48806541758061,5.0,"Brookland, Brentwood, Langdon",71215.0,0.7121525167086724,Q2,False
-110010091022,11.0,34.66907524414393,5.0,"Brookland, Brentwood, Langdon",71215.0,0.336425879220688,Q2,True
-110010091023,26.0,20.62682337137777,5.0,"Brookland, Brentwood, Langdon",71215.0,1.2484496468276247,Q2,False
-110010091024,12.0,3.902900529506048,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",71215.0,2.6514916877805206,Q2,False
-110010092011,8.0,8.120593280316148,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",99394.0,0.9867779127289439,Q2,False
-110010092012,16.0,2.516094897584768,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",99394.0,4.834909322748207,Q2,False
-110010092031,45.0,11.484995156154207,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",136625.0,3.684422735024074,Q4,False
-110010092032,74.0,68.90600940097404,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",136625.0,1.0728691373270547,Q4,False
-110010092041,32.0,3.519901642215594,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",48450.0,7.301043830640495,Q1 (lowest income),False
-110010092042,4.0,4.894785832630831,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",48450.0,0.8482072363549313,Q1 (lowest income),False
-110010093011,11.0,2.648206193124829,5.0,"Brookland, Brentwood, Langdon",228839.0,3.289287766304003,Q5 (highest income),False
-110010093012,18.0,29.07067078464976,5.0,"Brookland, Brentwood, Langdon",228839.0,0.6318449008360323,Q5 (highest income),False
-110010093013,8.0,10.050846362302604,5.0,"Brookland, Brentwood, Langdon",228839.0,0.8144172586365339,Q5 (highest income),False
-110010093014,1.0,7.206943741146948,5.0,"Brookland, Brentwood, Langdon",228839.0,0.2436960777460494,Q5 (highest income),False
-110010093021,31.0,12.405440031176086,5.0,"Brookland, Brentwood, Langdon",121960.0,2.3870906084082177,Q3,False
-110010094001,1.0,0.5520110529319572,5.0,"North Michigan Park, Michigan Park, University Heights",142353.0,1.2886506163868687,Q4,False
-110010094002,27.0,17.311328962132258,5.0,"Brookland, Brentwood, Langdon",142353.0,1.5291080214824313,Q4,False
-110010094003,6.0,24.780949002324782,5.0,"Woodridge, Fort Lincoln, Gateway",142353.0,0.27151832150821054,Q4,True
-110010094004,8.0,8.783866767508298,5.0,"Woodridge, Fort Lincoln, Gateway",142353.0,0.9198817005448727,Q4,False
-110010095031,34.0,11.290289067813879,5.0,"North Michigan Park, Michigan Park, University Heights",95313.0,2.847776794091759,Q2,False
-110010095032,14.0,4.425288534977367,5.0,"Brookland, Brentwood, Langdon",95313.0,2.7648299078092395,Q2,False
-110010095033,4.0,7.167012655609387,5.0,"North Michigan Park, Michigan Park, University Heights",95313.0,0.6122189606949888,Q2,False
-110010095041,43.0,30.664354893554304,5.0,"North Michigan Park, Michigan Park, University Heights",120446.0,1.3895751278658381,Q3,False
-110010095042,26.0,21.17012695714074,5.0,"North Michigan Park, Michigan Park, University Heights",120446.0,1.217855001561171,Q3,False
-110010095051,25.0,8.390662103222772,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",95078.0,2.7687078625773456,Q2,False
-110010095052,61.0,10.4377849323765,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",95078.0,5.420629987935773,Q2,False
-110010095053,23.0,23.45879347340798,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",95078.0,0.9812421870315563,Q2,False
-110010095071,34.0,17.06901693393955,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",124489.0,1.9370173888242088,Q3,False
-110010095081,34.0,20.509251617121773,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",96125.0,1.6272067770195842,Q2,False
-110010095082,14.0,14.2450826932318,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",96125.0,0.9839238200170205,Q2,False
-110010095083,0.0,1.1239750541571882,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",96125.0,0.4708153224505778,Q2,False
-110010095084,2.0,5.765832762928423,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",96125.0,0.4434043975248251,Q2,False
-110010095091,54.0,10.171955171556395,5.0,"North Michigan Park, Michigan Park, University Heights",119727.0,4.92304159436918,Q3,False
-110010095092,33.0,8.195553476300448,5.0,"North Michigan Park, Michigan Park, University Heights",119727.0,3.697439212074363,Q3,False
-110010095093,18.0,17.483379615587232,5.0,"North Michigan Park, Michigan Park, University Heights",119727.0,1.027950536923296,Q3,False
-110010095101,9.0,17.633745002497367,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",68816.0,0.5366607731650166,Q1 (lowest income),False
-110010095102,1.0,8.55434149554969,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",68816.0,0.20932892140516213,Q1 (lowest income),False
-110010095103,14.0,19.1271604370064,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",68816.0,0.745261610396892,Q1 (lowest income),False
-110010095111,0.0,3.6565344603920935,5.0,"North Michigan Park, Michigan Park, University Heights",0.0,0.21475198100773793,Q1 (lowest income),False
-110010096011,2.0,4.656933531923303,7.0,"Eastland Gardens, Kenilworth",40987.0,0.530322653266182,Q1 (lowest income),False
-110010096021,0.0,0.7876954745153754,7.0,"Mayfair, Hillbrook, Mahaning Heights",44718.0,0.5593793877400115,Q1 (lowest income),False
-110010096022,1.0,1.2079707568976104,7.0,"Mayfair, Hillbrook, Mahaning Heights",44718.0,0.9058090981287147,Q1 (lowest income),False
-110010096023,0.0,2.0501163450549997,7.0,"Mayfair, Hillbrook, Mahaning Heights",44718.0,0.32785634607717495,Q1 (lowest income),False
-110010096031,6.0,20.153296671923872,7.0,"River Terrace, Benning, Greenway, Dupont Park",36390.0,0.33091768666445676,Q1 (lowest income),True
-110010096032,8.0,15.889702717262464,7.0,"River Terrace, Benning, Greenway, Dupont Park",36390.0,0.5328690593707943,Q1 (lowest income),False
-110010096033,44.0,53.73978759280775,7.0,"River Terrace, Benning, Greenway, Dupont Park",36390.0,0.8220711474940495,Q1 (lowest income),False
-110010096041,87.0,3.877146482913237,7.0,"River Terrace, Benning, Greenway, Dupont Park",85391.0,18.04333749422992,Q2,False
-110010096042,69.0,24.966939218399276,7.0,"River Terrace, Benning, Greenway, Dupont Park",85391.0,2.695735504722113,Q2,False
-110010097001,0.0,25.87080565247062,8.0,"Congress Heights, Bellevue, Washington Highlands",54044.0,0.03721511044117338,Q1 (lowest income),True
-110010097002,40.0,16.93341911805682,8.0,"Congress Heights, Bellevue, Washington Highlands",54044.0,2.286234416878033,Q1 (lowest income),False
-110010097003,2.0,8.209695281421945,8.0,"Congress Heights, Bellevue, Washington Highlands",54044.0,0.3257436764549294,Q1 (lowest income),False
-110010098011,0.0,29.513079394880748,8.0,"Congress Heights, Bellevue, Washington Highlands",14259.0,0.03277283118687039,Q1 (lowest income),True
-110010098021,0.0,18.57820562554883,8.0,"Congress Heights, Bellevue, Washington Highlands",34448.0,0.05107720386259695,Q1 (lowest income),True
-110010098022,1.0,11.048134998991666,8.0,"Congress Heights, Bellevue, Washington Highlands",34448.0,0.16600079598770967,Q1 (lowest income),False
-110010098031,2.0,7.865601040515872,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,0.3383865331058745,Q1 (lowest income),False
-110010098032,0.0,7.981650691370539,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,0.11133810859075023,Q1 (lowest income),False
-110010098033,11.0,32.6007929097707,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,0.3571344293042128,Q1 (lowest income),True
-110010098041,11.0,19.66009259803237,8.0,"Congress Heights, Bellevue, Washington Highlands",48558.0,0.580829923344238,Q1 (lowest income),True
-110010098042,3.0,7.777552678006985,8.0,"Congress Heights, Bellevue, Washington Highlands",48558.0,0.45570788883129015,Q1 (lowest income),False
-110010098071,6.0,13.04111967460664,8.0,Joint Base Anacostia-Bolling,0.0,0.4985357408967533,Q1 (lowest income),False
-110010098072,4.0,44.700359679866715,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,0.10940832927848376,Q1 (lowest income),True
-110010098073,7.0,19.897438688294848,8.0,Joint Base Anacostia-Bolling,0.0,0.3828220347635708,Q1 (lowest income),True
-110010098101,2.0,1.7099598661896744,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,1.1070274646606244,Q1 (lowest income),False
-110010098102,1.0,4.273500260821985,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,0.3792547456304209,Q1 (lowest income),False
-110010098111,3.0,14.420001278334283,8.0,"Congress Heights, Bellevue, Washington Highlands",53980.0,0.2594033507390275,Q1 (lowest income),False
-110010098112,1.0,9.92136328456797,8.0,"Congress Heights, Bellevue, Washington Highlands",53980.0,0.18312732100268345,Q1 (lowest income),False
-110010098113,0.0,26.6851567773585,8.0,"Congress Heights, Bellevue, Washington Highlands",53980.0,0.03612043840105037,Q1 (lowest income),True
-110010099011,1.0,3.9480818674209224,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",106477.0,0.40419703100879684,Q3,False
-110010099012,8.0,3.50990152571262,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",106477.0,1.995608983630278,Q3,False
-110010099021,5.0,5.662408282217124,7.0,"River Terrace, Benning, Greenway, Dupont Park",99432.0,0.9005752493456185,Q2,False
-110010099022,28.0,10.524387351834132,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",99432.0,2.5164027478983155,Q2,False
-110010099031,6.0,7.143573785562094,7.0,"Capitol View, Marshall Heights, Benning Heights",157585.0,0.8595734728173571,Q4,False
-110010099032,12.0,24.019573739237458,7.0,"Capitol View, Marshall Heights, Benning Heights",157585.0,0.5195931847396937,Q4,True
-110010099041,4.0,3.0597751145155385,7.0,"Capitol View, Marshall Heights, Benning Heights",55082.0,1.2315953122927255,Q1 (lowest income),False
-110010099042,0.0,11.283785709550079,7.0,"Capitol View, Marshall Heights, Benning Heights",55082.0,0.08140812805148058,Q1 (lowest income),False
-110010099043,0.0,24.263871193242128,7.0,"Capitol View, Marshall Heights, Benning Heights",55082.0,0.03958221574006012,Q1 (lowest income),True
-110010099051,4.0,10.813498135073168,7.0,"Capitol View, Marshall Heights, Benning Heights",83976.0,0.4232446598654355,Q2,False
-110010099052,2.0,20.22489256606492,7.0,"Capitol View, Marshall Heights, Benning Heights",83976.0,0.1413434716176845,Q2,True
-110010099053,3.0,18.42418284576382,7.0,"Capitol View, Marshall Heights, Benning Heights",83976.0,0.2059288687591999,Q2,True
-110010099061,4.0,20.196171197338746,7.0,"Capitol View, Marshall Heights, Benning Heights",80203.0,0.23589165955725852,Q2,True
-110010099071,2.0,5.792046656686595,7.0,"Capitol View, Marshall Heights, Benning Heights",39826.0,0.4416930789258606,Q1 (lowest income),False
-110010099072,2.0,3.2946188975154027,7.0,"Capitol View, Marshall Heights, Benning Heights",39826.0,0.6985485957172154,Q1 (lowest income),False
-110010101001,1.0,5.602642460836137,2.0,"Dupont Circle, Connecticut Avenue/K Street",112670.0,0.3029090264788814,Q3,False
-110010101002,5.0,11.08163014079097,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",112670.0,0.4966217248897827,Q3,False
-110010101003,5.0,11.763546095792053,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",112670.0,0.4700887946789418,Q3,False
-110010102011,0.0,4.8283725280353895,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",102737.0,0.17157448244597315,Q2,False
-110010102012,0.0,3.1286404623734594,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",102737.0,0.24221048287288335,Q2,False
-110010102013,0.0,2.917228976672803,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",102737.0,0.25528249840768186,Q2,False
-110010102021,1.0,0.800518457251117,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,1.1107911679247293,Q3,False
-110010102022,25.0,1.082006998828887,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,12.487950335721639,Q3,False
-110010102023,0.0,0.5594400928498314,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,0.6412557972474141,Q3,False
-110010102024,1.0,0.5742850640182592,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,1.2704179476207005,Q3,False
-110010102025,1.0,4.3762657505420295,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,0.37200542026747135,Q3,False
-110010102026,0.0,0.9013512416133955,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,0.5259417503267034,Q3,False
-110010103001,19.0,0.7545417450133565,4.0,Walter Reed,91563.0,11.39898783077843,Q2,False
-110010103002,19.0,18.712537575571243,4.0,"Takoma, Brightwood, Manor Park",91563.0,1.0145827204299154,Q2,False
-110010103003,9.0,30.532480993893458,4.0,"Takoma, Brightwood, Manor Park",91563.0,0.3171333077767204,Q2,True
-110010104001,10.0,24.358710778995373,8.0,"Congress Heights, Bellevue, Washington Highlands",98968.0,0.43377599499700525,Q2,True
-110010104002,7.0,39.22201814373578,8.0,"Congress Heights, Bellevue, Washington Highlands",98968.0,0.19889603677795387,Q2,True
-110010104003,10.0,7.153865713975688,8.0,Saint Elizabeths,98968.0,1.3490533675513017,Q2,False
-110010105001,0.0,0.47607575852919537,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",110132.0,0.6774720025186438,Q3,False
-110010105002,2.0,16.746249649006703,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",110132.0,0.16904980259690625,Q3,False
-110010105003,3.0,9.413370697936044,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",110132.0,0.38412154104845325,Q3,False
-110010105004,1.0,0.7208131357916374,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",110132.0,1.1622412442126822,Q3,False
-110010105005,1.0,0.7815135587787418,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",110132.0,1.1226409084256617,Q3,False
-110010106011,6.0,15.538281867569342,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",116481.0,0.4232604121790072,Q3,False
-110010106012,4.0,5.172581535795031,6.0,"Union Station, Stanton Park, Kingman Park",116481.0,0.8100338522877039,Q3,False
-110010106021,27.0,15.202083729004162,6.0,"Union Station, Stanton Park, Kingman Park",140455.0,1.7281727750780473,Q4,False
-110010106022,22.0,13.454150987080613,6.0,"Union Station, Stanton Park, Kingman Park",140455.0,1.5912383937706078,Q4,False
-110010106023,19.0,22.339675835109887,6.0,"Union Station, Stanton Park, Kingman Park",140455.0,0.8569099305961221,Q4,False
-110010106024,60.0,55.215184451482145,6.0,"Union Station, Stanton Park, Kingman Park",140455.0,1.0851160695318451,Q4,False
-110010106031,2.0,0.7049531974538076,6.0,"Union Station, Stanton Park, Kingman Park",108469.0,1.7595790925406203,Q3,False
-110010106032,0.0,1.7422630075619432,6.0,"Union Station, Stanton Park, Kingman Park",108469.0,0.36466232350523786,Q3,False
-110010106033,3.0,15.058416603887226,6.0,"Union Station, Stanton Park, Kingman Park",108469.0,0.24909056096052018,Q3,False
-110010107001,35.0,17.11082200365006,2.0,"Dupont Circle, Connecticut Avenue/K Street",99012.0,1.9877617919686112,Q2,False
-110010107002,35.0,9.020580716680117,2.0,"Dupont Circle, Connecticut Avenue/K Street",99012.0,3.5926061590497356,Q2,False
-110010108001,0.0,5.348731220898343,2.0,"West End, Foggy Bottom, GWU",36776.0,0.15751178703364613,Q1 (lowest income),False
-110010108002,3.0,0.4990306026589773,2.0,"West End, Foggy Bottom, GWU",36776.0,2.6683911541931224,Q1 (lowest income),False
-110010108003,2.0,19.930972118644743,2.0,"West End, Foggy Bottom, GWU",36776.0,0.14332826889237893,Q1 (lowest income),True
-110010108004,1.0,0.5284662252468707,2.0,"National Mall, Potomac River",36776.0,1.3085012720362659,Q1 (lowest income),False
-110010108005,0.0,1.5902509926509216,2.0,"National Mall, Potomac River",36776.0,0.3860629733710004,Q1 (lowest income),False
-110010108006,0.0,7.153514858479572,2.0,"West End, Foggy Bottom, GWU",36776.0,0.12264649263010913,Q1 (lowest income),False
-110010109001,0.0,10.513123248439967,8.0,"Congress Heights, Bellevue, Washington Highlands",35457.0,0.08685740423524958,Q1 (lowest income),False
-110010109002,0.0,1.3063086170887712,8.0,"National Mall, Potomac River",35457.0,0.4335933155651516,Q1 (lowest income),False
-110010110011,3.0,5.5330941688681525,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",138490.0,0.6122673111097974,Q4,False
-110010110012,0.0,4.81890106042636,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",138490.0,0.17185375547985832,Q4,False
-110010110013,1.0,0.9920245478790102,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",138490.0,1.00400369168617,Q4,False
-110010110021,0.0,2.105805265567525,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",120606.0,0.3219776883909911,Q3,False
-110010110022,0.0,2.261094988903774,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",120606.0,0.3066454682867587,Q3,False
-110010111001,5.0,6.873337885516922,5.0,"Brookland, Brentwood, Langdon",80536.0,0.7620656051148339,Q2,False
-110010111002,14.0,34.14237595131799,5.0,"Brookland, Brentwood, Langdon",80536.0,0.4268351127077803,Q2,True
-110010111003,2.0,5.030099711494858,5.0,"Arboretum, Anacostia River",80536.0,0.4975042111295871,Q2,False
-110019800001,0.0,1.5399870421268615,6.0,"National Mall, Potomac River",0.0,0.3937027958861746,Q1 (lowest income),False
+110010001011,13.0,31.375231796828665,2.0,"Georgetown, Burleith/Hillandale",134750.0,0.43242933634752784,Q4,False
+110010001021,34.0,34.887970126388296,2.0,"Georgetown, Burleith/Hillandale",157008.0,0.9752571649145635,Q4,False
+110010001022,83.0,11.679867634174126,2.0,"Georgetown, Burleith/Hillandale",157008.0,6.624674832851372,Q4,False
+110010001023,67.0,42.27002295693336,2.0,"National Mall, Potomac River",157008.0,1.5715267835120028,Q4,False
+110010002011,0.0,1.7220200412471705,2.0,"Georgetown, Burleith/Hillandale",0.0,0.367374223865678,Q1 (lowest income),False
+110010002012,0.0,3.3044551485727323,2.0,"Georgetown, Burleith/Hillandale",0.0,0.2323174398347673,Q1 (lowest income),False
+110010002021,101.0,44.10489896592023,2.0,"Georgetown, Burleith/Hillandale",135332.0,2.2613951552594727,Q4,False
+110010002022,66.0,41.31057289684534,2.0,"Georgetown, Burleith/Hillandale",135332.0,1.583528546478166,Q4,False
+110010002023,59.0,73.49953465681253,2.0,"Georgetown, Burleith/Hillandale",135332.0,0.8053741580587627,Q4,False
+110010002024,26.0,98.56874276946816,2.0,"Georgetown, Burleith/Hillandale",135332.0,0.27116943780753755,Q4,True
+110010003001,121.0,195.80014485433776,3.0,"Cathedral Heights, McLean Gardens, Glover Park",171250.0,0.6199182428971213,Q5 (highest income),False
+110010003002,56.0,4.79922122317599,3.0,"Cathedral Heights, McLean Gardens, Glover Park",171250.0,9.828905952441575,Q5 (highest income),False
+110010003003,149.0,38.5962887092183,2.0,"Georgetown, Burleith/Hillandale",171250.0,3.788233819122521,Q5 (highest income),False
+110010003004,139.0,8.9135747082097,3.0,"Cathedral Heights, McLean Gardens, Glover Park",171250.0,14.122050231190794,Q5 (highest income),False
+110010004001,20.0,26.664423079178544,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",207614.0,0.7590977024858154,Q5 (highest income),False
+110010004002,31.0,17.41858791003611,3.0,Observatory Circle,207614.0,1.737375316517262,Q5 (highest income),False
+110010005011,32.0,18.668329324066768,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",110774.0,1.6778242552416587,Q3,False
+110010005012,0.0,9.148296552695465,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",110774.0,0.09853870497452032,Q3,False
+110010005013,5.0,4.454629836223139,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",110774.0,1.0999829832915815,Q3,False
+110010005021,47.0,27.849373016607792,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",151875.0,1.663814321800606,Q4,False
+110010005022,17.0,15.925388967616298,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",151875.0,1.063491068621216,Q4,False
+110010006001,4.0,3.031006447672391,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",193954.0,1.2403850167213528,Q5 (highest income),False
+110010006002,8.0,14.750376995959163,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",193954.0,0.5714148938980315,Q5 (highest income),False
+110010006003,0.0,6.1415143557542,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",193954.0,0.1400263235757918,Q5 (highest income),False
+110010006004,12.0,23.7915718633999,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",193954.0,0.5243717530953356,Q5 (highest income),False
+110010007021,18.0,14.494040703706025,3.0,"Cathedral Heights, McLean Gardens, Glover Park",88830.0,1.226277919578163,Q2,False
+110010007022,0.0,15.023594557089321,3.0,"Cathedral Heights, McLean Gardens, Glover Park",88830.0,0.06240796947508696,Q2,False
+110010007023,20.0,18.408726219553653,3.0,"Cathedral Heights, McLean Gardens, Glover Park",88830.0,1.0819875432548063,Q2,False
+110010007031,0.0,23.221793077169533,3.0,"Cathedral Heights, McLean Gardens, Glover Park",124019.0,0.04128513511836409,Q3,False
+110010007032,0.0,3.1312570754923876,3.0,"Cathedral Heights, McLean Gardens, Glover Park",124019.0,0.2420570740882336,Q3,False
+110010007041,8.0,25.27941644518382,3.0,"Cathedral Heights, McLean Gardens, Glover Park",80274.0,0.3424733581422206,Q2,False
+110010007042,3.0,5.729432726913576,3.0,"Cathedral Heights, McLean Gardens, Glover Park",80274.0,0.5944037428299818,Q2,False
+110010008021,18.0,5.1486726109666945,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",157212.0,3.0900978474787943,Q4,False
+110010008022,18.0,2.385501819606215,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",157212.0,5.612166530222095,Q4,False
+110010008031,0.0,8.652029599960116,3.0,"Cathedral Heights, McLean Gardens, Glover Park",143000.0,0.10360515264107066,Q4,False
+110010008032,7.0,27.635493973989885,3.0,"Cathedral Heights, McLean Gardens, Glover Park",143000.0,0.2793735637061662,Q4,False
+110010008033,0.0,20.04181672499793,3.0,"Cathedral Heights, McLean Gardens, Glover Park",143000.0,0.04752441355560274,Q4,False
+110010008041,1.0,9.16767442470479,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.19670181365568934,Q5 (highest income),False
+110010008042,15.0,16.580875478407783,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.9100798205214888,Q5 (highest income),False
+110010008043,4.0,9.48197678424164,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.4770092610314577,Q5 (highest income),False
+110010009021,11.0,11.081522871515922,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.9932522685771572,Q5 (highest income),False
+110010009022,10.0,8.725709141402305,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,1.1310229249169137,Q5 (highest income),False
+110010009031,1.0,2.2425179102363457,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.6168046115292609,Q5 (highest income),False
+110010009032,2.0,14.6479859699794,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.19171796330566043,Q5 (highest income),False
+110010009041,3.0,6.352832819654907,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.544008016788791,Q5 (highest income),False
+110010009042,0.0,6.052851780186651,3.0,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",250001.0,0.14178661783440108,Q5 (highest income),False
+110010010021,2.0,3.418757465681359,3.0,"Cathedral Heights, McLean Gardens, Glover Park",136635.0,0.6789238882875435,Q4,False
+110010010022,4.0,7.364942116449755,3.0,"Cathedral Heights, McLean Gardens, Glover Park",136635.0,0.5977327673514253,Q4,False
+110010010023,0.0,7.166115656376881,3.0,"Cathedral Heights, McLean Gardens, Glover Park",136635.0,0.1224572418612642,Q4,False
+110010010024,8.0,30.11619172749183,3.0,"Cathedral Heights, McLean Gardens, Glover Park",136635.0,0.28923848004344005,Q4,False
+110010010031,6.0,7.939415702799766,3.0,"Friendship Heights, American University Park, Tenleytown",250001.0,0.7830489410854499,Q5 (highest income),False
+110010010032,11.0,13.334910065645616,3.0,"Friendship Heights, American University Park, Tenleytown",250001.0,0.8371172155979302,Q5 (highest income),False
+110010010033,6.0,10.025087183253149,3.0,"Friendship Heights, American University Park, Tenleytown",250001.0,0.6349156141488692,Q5 (highest income),False
+110010010041,9.0,14.069824579751808,3.0,"Friendship Heights, American University Park, Tenleytown",232045.0,0.6635777309203884,Q5 (highest income),False
+110010010042,10.0,18.775649677367646,3.0,"Friendship Heights, American University Park, Tenleytown",232045.0,0.5562396269887918,Q5 (highest income),False
+110010010043,20.0,30.925088279847614,3.0,"Friendship Heights, American University Park, Tenleytown",232045.0,0.6577898803573876,Q5 (highest income),False
+110010011001,31.0,2.7680017281211833,3.0,"Hawthorne, Barnaby Woods, Chevy Chase",238750.0,8.492565107170472,Q5 (highest income),False
+110010011002,7.0,35.970453866834795,3.0,"Friendship Heights, American University Park, Tenleytown",238750.0,0.21638901239393726,Q5 (highest income),False
+110010011003,4.0,6.771564963604186,3.0,"Hawthorne, Barnaby Woods, Chevy Chase",238750.0,0.6433710614806687,Q5 (highest income),False
+110010011004,19.0,12.647401825117019,3.0,"Friendship Heights, American University Park, Tenleytown",238750.0,1.4654804083801138,Q5 (highest income),False
+110010012001,13.0,4.202894786162056,3.0,"North Cleveland Park, Forest Hills, Van Ness",163661.0,2.6908097463810483,Q4,False
+110010012002,1.0,6.113421440801103,3.0,"North Cleveland Park, Forest Hills, Van Ness",163661.0,0.28115865433311976,Q4,False
+110010012003,2.0,30.741603805323944,3.0,"North Cleveland Park, Forest Hills, Van Ness",163661.0,0.09451318271122826,Q4,False
+110010012004,93.0,2.995882180737523,3.0,"Friendship Heights, American University Park, Tenleytown",163661.0,23.52421711859641,Q4,False
+110010013011,0.0,1.8873218363123452,3.0,Rock Creek Park,103167.0,0.3463417161964836,Q2,False
+110010013012,0.0,21.388520025591596,3.0,"North Cleveland Park, Forest Hills, Van Ness",103167.0,0.04466574828782484,Q2,False
+110010013013,0.0,3.3154731886045323,3.0,"North Cleveland Park, Forest Hills, Van Ness",103167.0,0.23172429911987563,Q2,False
+110010013014,1.0,12.435681305735782,3.0,"North Cleveland Park, Forest Hills, Van Ness",103167.0,0.14885735635499084,Q2,False
+110010013031,0.0,10.926306227119232,3.0,"North Cleveland Park, Forest Hills, Van Ness",103750.0,0.08384825787267643,Q3,False
+110010013032,2.0,18.348877301236158,3.0,"North Cleveland Park, Forest Hills, Van Ness",103750.0,0.15504775565496695,Q3,False
+110010013033,3.0,5.126586544368523,3.0,"North Cleveland Park, Forest Hills, Van Ness",103750.0,0.6528921073802094,Q3,False
+110010013034,1.0,6.253482317551173,3.0,"North Cleveland Park, Forest Hills, Van Ness",103750.0,0.27572963060247924,Q3,False
+110010013041,30.0,14.405652826144644,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",129632.0,2.0122483837484952,Q3,False
+110010013042,0.0,10.389261618021687,3.0,"North Cleveland Park, Forest Hills, Van Ness",129632.0,0.08780200451429264,Q3,False
+110010013043,0.0,8.073902621857574,3.0,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",129632.0,0.11020616394881301,Q3,False
+110010013044,0.0,3.781153909395125,3.0,Rock Creek Park,129632.0,0.20915453025575417,Q3,False
+110010014011,14.0,10.842051135210196,3.0,"Hawthorne, Barnaby Woods, Chevy Chase",212273.0,1.2666724563787952,Q5 (highest income),False
+110010014012,23.0,5.25357053796865,3.0,"Hawthorne, Barnaby Woods, Chevy Chase",212273.0,3.837807514008778,Q5 (highest income),False
+110010014021,4.0,3.9102333548772967,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",176111.0,1.0182815435917192,Q5 (highest income),False
+110010014022,3.0,8.418409411974562,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",176111.0,0.42470016167638686,Q5 (highest income),False
+110010014023,11.0,11.651426188474874,3.0,"Hawthorne, Barnaby Woods, Chevy Chase",176111.0,0.948509663750929,Q5 (highest income),False
+110010015001,3.0,4.299019471666542,4.0,Rock Creek Park,250001.0,0.7548566336447147,Q5 (highest income),False
+110010015002,2.0,8.08336468947801,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",250001.0,0.33027408923426144,Q5 (highest income),False
+110010015003,0.0,6.23217219365921,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",250001.0,0.13827104405461305,Q5 (highest income),False
+110010015004,2.0,19.738524253335044,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",250001.0,0.14465831625013328,Q5 (highest income),False
+110010015005,0.0,2.488531520140305,4.0,"Hawthorne, Barnaby Woods, Chevy Chase",250001.0,0.2866535658992071,Q5 (highest income),False
+110010016001,12.0,36.00472902819325,4.0,"Colonial Village, Shepherd Park, North Portal Estates",222303.0,0.3513064503214043,Q5 (highest income),False
+110010016002,13.0,15.107294068858977,4.0,"Colonial Village, Shepherd Park, North Portal Estates",222303.0,0.8691714412209613,Q5 (highest income),False
+110010016003,5.0,16.104470032451925,4.0,"Colonial Village, Shepherd Park, North Portal Estates",222303.0,0.3507854957573275,Q5 (highest income),False
+110010016004,3.0,12.683664040234351,4.0,"Colonial Village, Shepherd Park, North Portal Estates",222303.0,0.2923193662339794,Q5 (highest income),False
+110010017021,30.0,26.480497229720054,4.0,"Takoma, Brightwood, Manor Park",111705.0,1.1280727470416225,Q3,False
+110010017022,78.0,60.032212349679114,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",111705.0,1.2943984325420796,Q3,False
+110010018031,14.0,23.36028024476511,4.0,Rock Creek Park,45924.0,0.6157564629505203,Q1 (lowest income),False
+110010018032,2.0,10.45660819229686,4.0,"Takoma, Brightwood, Manor Park",45924.0,0.261857606513691,Q1 (lowest income),False
+110010018033,26.0,49.03294473710533,4.0,"Takoma, Brightwood, Manor Park",45924.0,0.5396444311217268,Q1 (lowest income),True
+110010018041,43.0,32.84402327535263,4.0,"Takoma, Brightwood, Manor Park",73651.0,1.300081838439214,Q2,False
+110010018042,67.0,34.09558027346966,4.0,"Takoma, Brightwood, Manor Park",73651.0,1.9375659120075666,Q2,False
+110010018043,45.0,35.07556426885643,4.0,"Takoma, Brightwood, Manor Park",73651.0,1.2751013305621723,Q2,False
+110010019011,47.0,19.852972476992797,4.0,"Takoma, Brightwood, Manor Park",107273.0,2.3018301133307815,Q3,False
+110010019012,53.0,58.70934218839304,4.0,"Takoma, Brightwood, Manor Park",107273.0,0.9043810904769458,Q3,False
+110010019013,116.0,62.43368068502124,4.0,"Takoma, Brightwood, Manor Park",107273.0,1.8444460219951815,Q3,False
+110010019014,57.0,10.624358050144366,4.0,"Takoma, Brightwood, Manor Park",107273.0,4.989522840728369,Q3,False
+110010019021,43.0,35.47248439248968,4.0,"Takoma, Brightwood, Manor Park",167866.0,1.206388891047421,Q5 (highest income),False
+110010019022,23.0,16.780052064976708,4.0,"Takoma, Brightwood, Manor Park",167866.0,1.3498273184067553,Q5 (highest income),False
+110010020011,20.0,12.112108132298777,4.0,"Brightwood Park, Crestwood, Petworth",90774.0,1.601573125245295,Q2,False
+110010020012,58.0,34.35592996336577,4.0,"Brightwood Park, Crestwood, Petworth",90774.0,1.6687441133957772,Q2,False
+110010020021,46.0,13.373957870952767,4.0,"Brightwood Park, Crestwood, Petworth",216000.0,3.2698022647595697,Q5 (highest income),False
+110010020022,79.0,67.28518861889607,4.0,"Brightwood Park, Crestwood, Petworth",216000.0,1.1715571358597987,Q5 (highest income),False
+110010020023,36.0,35.13460837190296,4.0,"Brightwood Park, Crestwood, Petworth",216000.0,1.0239491077138654,Q5 (highest income),False
+110010021011,80.0,42.290146730948834,4.0,"Brightwood Park, Crestwood, Petworth",119539.0,1.8710955290454532,Q3,False
+110010021012,39.0,52.04085741812201,4.0,"Brightwood Park, Crestwood, Petworth",119539.0,0.7541356219919165,Q3,False
+110010021013,62.0,29.40807828463799,4.0,"Brightwood Park, Crestwood, Petworth",119539.0,2.071817870576428,Q3,False
+110010021014,50.0,61.44218521811295,4.0,"Brightwood Park, Crestwood, Petworth",119539.0,0.8167555286839345,Q3,False
+110010021015,71.0,124.80825230271402,4.0,"Brightwood Park, Crestwood, Petworth",119539.0,0.5722995008845438,Q3,True
+110010021021,75.0,25.631843674286824,4.0,"Takoma, Brightwood, Manor Park",106148.0,2.8537265737023825,Q3,False
+110010021022,24.0,21.438322775453084,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",106148.0,1.1141652720741375,Q3,False
+110010021023,32.0,90.6010585553783,4.0,"Brightwood Park, Crestwood, Petworth",106148.0,0.3602578454925773,Q3,True
+110010021024,50.0,21.609866399063144,4.0,"Brightwood Park, Crestwood, Petworth",106148.0,2.2556524262396005,Q3,False
+110010021025,23.0,12.566074478153423,4.0,"Brightwood Park, Crestwood, Petworth",106148.0,1.7691189915438836,Q3,False
+110010021026,51.0,80.3957685774986,4.0,"Brightwood Park, Crestwood, Petworth",106148.0,0.6388538484096962,Q3,False
+110010022011,90.0,40.753556412778856,4.0,"Brightwood Park, Crestwood, Petworth",137232.0,2.179455064866021,Q4,False
+110010022012,97.0,41.480976555053125,4.0,"Brightwood Park, Crestwood, Petworth",137232.0,2.306914952225666,Q4,False
+110010022013,49.0,105.03225018042558,4.0,"Brightwood Park, Crestwood, Petworth",137232.0,0.47155464412873893,Q4,True
+110010022021,38.0,86.44990736526653,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",93417.0,0.4459695976246405,Q2,True
+110010022022,71.0,19.0692291316826,4.0,"Brightwood Park, Crestwood, Petworth",93417.0,3.587581741559574,Q2,False
+110010022023,65.0,44.61138223169677,4.0,"Brightwood Park, Crestwood, Petworth",93417.0,1.447007233079083,Q2,False
+110010023011,102.0,38.136259582134926,4.0,"Brightwood Park, Crestwood, Petworth",150938.0,2.6318304584993566,Q4,False
+110010023012,183.0,68.71733015616789,4.0,"Brightwood Park, Crestwood, Petworth",150938.0,2.6392290064441246,Q4,False
+110010023021,0.0,1.1364187324828765,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",117460.0,0.46807303493254454,Q3,False
+110010023022,4.0,3.3759291691288937,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",117460.0,1.142614472664177,Q3,False
+110010023023,1.0,4.425321368914669,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",117460.0,0.3686417566817979,Q3,False
+110010024001,61.0,62.96475962268617,4.0,"Brightwood Park, Crestwood, Petworth",167632.0,0.9692837175614222,Q5 (highest income),False
+110010024002,67.0,37.6389156214837,4.0,"Brightwood Park, Crestwood, Petworth",167632.0,1.7598837572499366,Q5 (highest income),False
+110010024003,164.0,41.44252268398364,4.0,"Brightwood Park, Crestwood, Petworth",167632.0,3.8876105746246177,Q5 (highest income),False
+110010024004,83.0,44.43592086565743,4.0,"Brightwood Park, Crestwood, Petworth",167632.0,1.8487575116693868,Q5 (highest income),False
+110010025011,74.0,35.0217710298281,4.0,"Brightwood Park, Crestwood, Petworth",150568.0,2.082074197237434,Q4,False
+110010025012,82.0,56.8394820657191,4.0,"Brightwood Park, Crestwood, Petworth",150568.0,1.435005934280198,Q4,False
+110010025031,55.0,92.79531075623343,4.0,"Brightwood Park, Crestwood, Petworth",108767.0,0.5970447727982857,Q3,True
+110010025032,65.0,43.73389589990422,4.0,"Brightwood Park, Crestwood, Petworth",108767.0,1.475391281539181,Q3,False
+110010025041,77.0,38.79964165588364,4.0,"Brightwood Park, Crestwood, Petworth",114306.0,1.9598166404211619,Q3,False
+110010025042,39.0,66.54604989246116,4.0,"Brightwood Park, Crestwood, Petworth",114306.0,0.5921885893206675,Q3,True
+110010026001,7.0,6.023552082308286,4.0,"Brightwood Park, Crestwood, Petworth",250001.0,1.139024799168401,Q5 (highest income),False
+110010026002,26.0,12.484730309428691,4.0,Rock Creek Park,250001.0,2.00226473799934,Q5 (highest income),False
+110010027021,94.0,89.97956123860823,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",132768.0,1.0441905710102024,Q3,False
+110010027022,95.0,16.021577634960448,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",132768.0,5.639900252419997,Q3,False
+110010027023,35.0,31.502172032702163,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",132768.0,1.1076182835958928,Q3,False
+110010027024,89.0,16.463881341674853,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",132768.0,5.1534935584582175,Q3,False
+110010027031,28.0,38.03630535894086,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",145489.0,0.742898174746393,Q4,False
+110010027032,77.0,43.08728763310096,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",145489.0,1.769217481672363,Q4,False
+110010027041,32.0,24.744252352840846,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",76226.0,1.28183951694206,Q2,False
+110010027042,0.0,6.547872344460869,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",76226.0,0.1324876673005561,Q2,False
+110010028011,58.0,100.72004412682783,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",81000.0,0.5800233425620314,Q2,True
+110010028012,74.0,69.82505807039175,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",81000.0,1.058947243297123,Q2,False
+110010028021,53.0,41.091557076158075,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",87071.0,1.2829176146250771,Q2,False
+110010028022,24.0,11.087170483133931,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",87071.0,2.068308710866967,Q2,False
+110010028023,5.0,20.42204829793052,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",87071.0,0.28008526152840535,Q2,False
+110010029001,126.0,106.9199661595205,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",204324.0,1.1767979968811018,Q5 (highest income),False
+110010029002,87.0,39.067962103217255,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",204324.0,2.196268424466091,Q5 (highest income),False
+110010030001,125.0,115.55623703264189,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",92730.0,1.081023231427018,Q2,False
+110010030002,82.0,96.29377190026139,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",92730.0,0.8530864656484451,Q2,False
+110010031001,136.0,148.3676402793436,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",170446.0,0.9172000022480509,Q5 (highest income),False
+110010031002,124.0,122.28813511320942,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",170446.0,1.0138850740601977,Q5 (highest income),False
+110010032001,128.0,109.39636730663119,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",135272.0,1.1685167107147314,Q4,False
+110010032002,97.0,121.56017612016687,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",135272.0,0.799607206046389,Q4,False
+110010032003,140.0,99.42950898286915,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",135272.0,1.4039698234913325,Q4,False
+110010032004,101.0,183.86412019909082,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",135272.0,0.5517566085303645,Q4,True
+110010033011,95.0,43.0838139358948,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",225208.0,2.1776700205567505,Q5 (highest income),False
+110010033012,117.0,128.89537236560602,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",225208.0,0.9084234322672783,Q5 (highest income),False
+110010033013,45.0,35.97616401208892,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",225208.0,1.244044676591137,Q5 (highest income),False
+110010033021,113.0,119.59540459746513,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",165598.0,0.9453096523911512,Q4,False
+110010033022,140.0,70.16381943299382,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",165598.0,1.981343906544565,Q4,False
+110010034001,74.0,61.506798798301126,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",109167.0,1.1998694772709817,Q3,False
+110010034002,0.0,0.7121984103931482,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",109167.0,0.5840444623297973,Q3,False
+110010034003,105.0,212.06373468483048,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",109167.0,0.4975037171708175,Q3,True
+110010034004,16.0,8.47223743583143,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",109167.0,1.7947185250754663,Q3,False
+110010034005,0.0,4.9891777495862355,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",109167.0,0.16696782794083634,Q3,False
+110010035001,225.0,91.07384750172578,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",98000.0,2.454551494611583,Q2,False
+110010035002,21.0,68.70193346596545,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",98000.0,0.31562969498891036,Q2,True
+110010035003,9.0,17.450389736366496,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",98000.0,0.5419939710156679,Q2,False
+110010036001,85.0,12.341315849863523,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",148835.0,6.446140768107199,Q4,False
+110010036002,141.0,99.91245383589539,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",148835.0,1.407160311758165,Q4,False
+110010036003,140.0,75.50337264081166,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",148835.0,1.843056000445944,Q4,False
+110010037011,85.0,28.61242112170575,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",134508.0,2.904186714302886,Q4,False
+110010037012,47.0,7.217272718271811,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",134508.0,5.841354138492675,Q4,False
+110010037021,9.0,24.949837268598817,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",106875.0,0.38535887129052343,Q3,False
+110010037022,160.0,77.26996043827155,1.0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",106875.0,2.0569832806671005,Q3,False
+110010038011,9.0,21.675945833624848,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",155694.0,0.44099593787049796,Q4,False
+110010038012,66.0,84.69407348646084,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",155694.0,0.7818510344310521,Q4,False
+110010038021,25.0,132.74879844373305,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",153279.0,0.19439426972450877,Q4,True
+110010038022,101.0,47.3204174585536,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",153279.0,2.1109089152114544,Q4,False
+110010038023,11.0,14.739116681286557,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",153279.0,0.7624316054704467,Q4,False
+110010039011,12.0,13.776032009385585,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",134922.0,0.8798031834082745,Q4,False
+110010039012,32.0,98.12282292807531,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",134922.0,0.3329203005441561,Q4,True
+110010039021,13.0,16.611061363703705,1.0,Rock Creek Park,137574.0,0.7949549269559596,Q4,False
+110010039022,34.0,28.21901799728415,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",137574.0,1.1978499757676038,Q4,False
+110010040011,80.0,79.48272633689494,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",128452.0,1.0064271389234478,Q3,False
+110010040012,18.0,6.8131723023219,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",128452.0,2.4317907329848114,Q3,False
+110010040013,14.0,11.502902104181965,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",128452.0,1.1997214626660804,Q3,False
+110010040014,2.0,7.123308056091441,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",128452.0,0.36930767358384053,Q3,False
+110010040021,33.0,67.61319978162847,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",169792.0,0.4955314736553603,Q5 (highest income),True
+110010040022,89.0,46.977252963045935,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",169792.0,1.8758889774143952,Q5 (highest income),False
+110010040023,1.0,4.906715669039764,1.0,"Kalorama Heights, Adams Morgan, Lanier Heights",169792.0,0.33859764242302415,Q5 (highest income),False
+110010041001,32.0,32.09138415385159,2.0,"Kalorama Heights, Adams Morgan, Lanier Heights",185759.0,0.9972384306009467,Q5 (highest income),False
+110010041002,7.0,17.099834273655965,2.0,"Kalorama Heights, Adams Morgan, Lanier Heights",185759.0,0.4419929972311337,Q5 (highest income),False
+110010041003,21.0,19.05803487860649,2.0,"Kalorama Heights, Adams Morgan, Lanier Heights",185759.0,1.096817317007698,Q5 (highest income),False
+110010042011,79.0,32.590586140730636,2.0,"Dupont Circle, Connecticut Avenue/K Street",154142.0,2.3816196497683353,Q4,False
+110010042012,66.0,39.80325280700689,1.0,"Dupont Circle, Connecticut Avenue/K Street",154142.0,1.6420259511392312,Q4,False
+110010042013,98.0,35.86429219480211,2.0,"Dupont Circle, Connecticut Avenue/K Street",154142.0,2.685525588741917,Q4,False
+110010042021,95.0,99.90976547914454,2.0,"Dupont Circle, Connecticut Avenue/K Street",105766.0,0.9513449916781418,Q3,False
+110010042022,61.0,110.87399035980968,2.0,"Dupont Circle, Connecticut Avenue/K Street",105766.0,0.5541949455865058,Q3,True
+110010043001,35.0,4.6607332627439995,2.0,"Dupont Circle, Connecticut Avenue/K Street",132809.0,6.359600131123165,Q4,False
+110010043002,63.0,85.29276170949232,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",132809.0,0.7416612787925168,Q4,False
+110010043003,35.0,52.149483563515574,1.0,"Dupont Circle, Connecticut Avenue/K Street",132809.0,0.6773348974685461,Q4,False
+110010043004,77.0,54.191410362513786,2.0,"Howard University, Le Droit Park, Cardozo/Shaw",132809.0,1.4132633952941687,Q4,False
+110010044011,66.0,82.017429464814,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",213300.0,0.8070594383845285,Q5 (highest income),False
+110010044012,59.0,89.96923091096191,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",213300.0,0.6595636722346954,Q5 (highest income),False
+110010044013,40.0,48.721525477769056,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",213300.0,0.8245925603857723,Q5 (highest income),False
+110010044021,210.0,77.53408551316406,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",186375.0,2.686731482531005,Q5 (highest income),False
+110010044022,128.0,174.97700977933366,1.0,"Howard University, Le Droit Park, Cardozo/Shaw",186375.0,0.7330503010692109,Q5 (highest income),False
+110010046001,230.0,74.07711336119834,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",168869.0,3.076836463978733,Q5 (highest income),False
+110010046002,189.0,66.16912471572005,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",168869.0,2.828680599965195,Q5 (highest income),False
+110010047021,3.0,16.124749634807163,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",140069.0,0.2335800572447343,Q4,False
+110010047022,0.0,4.335774338894359,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",140069.0,0.18741422265755206,Q4,False
+110010047023,1.0,6.099950641057072,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",140069.0,0.2816920991583445,Q4,False
+110010047024,6.0,14.519676874112488,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",140069.0,0.4510403184795884,Q4,False
+110010047025,0.0,3.0063258623042683,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",140069.0,0.2496052578770621,Q4,False
+110010047031,2.0,12.884469086651178,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",89432.0,0.21606875864517308,Q2,False
+110010047032,1.0,7.103067849930511,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",89432.0,0.2468200978987423,Q2,False
+110010047033,0.0,8.887116463791282,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",89432.0,0.10114172354115704,Q2,False
+110010047034,3.0,7.860056030185258,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",89432.0,0.4514644135852448,Q2,False
+110010047041,3.0,9.91776320516738,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",12117.0,0.36637541269504714,Q1 (lowest income),False
+110010047042,12.0,7.293584195672172,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",12117.0,1.5674767016634101,Q1 (lowest income),False
+110010048011,113.0,17.34623420444055,2.0,"Shaw, Logan Circle",167528.0,6.213809260780464,Q4,False
+110010048012,114.0,56.154016669543694,2.0,"Howard University, Le Droit Park, Cardozo/Shaw",167528.0,2.012107052158967,Q4,False
+110010048013,137.0,50.23324284141487,2.0,"Shaw, Logan Circle",167528.0,2.693563638498526,Q4,False
+110010048021,63.0,93.61084724539481,2.0,"Shaw, Logan Circle",99632.0,0.6764552042748482,Q2,False
+110010048022,40.0,174.96928998100555,2.0,"Shaw, Logan Circle",99632.0,0.23299520049450456,Q2,True
+110010049011,38.0,50.73718790335248,2.0,"Shaw, Logan Circle",114241.0,0.7538098141873085,Q3,False
+110010049012,42.0,45.582789812419435,2.0,"Shaw, Logan Circle",114241.0,0.9230876933982123,Q3,False
+110010049013,39.0,13.768241006109847,2.0,"Shaw, Logan Circle",114241.0,2.7085148450280156,Q3,False
+110010049021,43.0,35.8316998138323,2.0,"Shaw, Logan Circle",163036.0,1.194623116022346,Q4,False
+110010049022,36.0,9.154311833948675,2.0,"Shaw, Logan Circle",163036.0,3.6437722816723785,Q4,False
+110010049023,22.0,59.50539112790149,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",163036.0,0.3801314159159905,Q4,True
+110010050011,75.0,26.260041675313417,2.0,"Shaw, Logan Circle",250001.0,2.7879634560069397,Q5 (highest income),False
+110010050012,84.0,67.9560444538932,2.0,"Shaw, Logan Circle",250001.0,1.2326693138095304,Q5 (highest income),False
+110010050031,25.0,55.07058060561486,2.0,"Shaw, Logan Circle",151096.0,0.46370128005052946,Q4,True
+110010050032,0.0,8.849004935112909,2.0,"Shaw, Logan Circle",151096.0,0.10153309969770423,Q4,False
+110010050041,6.0,6.918254378535985,2.0,"Shaw, Logan Circle",86063.0,0.8840332307301092,Q2,False
+110010050042,16.0,70.29796528081391,2.0,"Shaw, Logan Circle",86063.0,0.23843597686194634,Q2,True
+110010050043,17.0,15.382661828993582,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",86063.0,1.098722551187872,Q2,False
+110010052021,23.0,6.576974184577228,2.0,"Shaw, Logan Circle",184596.0,3.167491325079541,Q5 (highest income),False
+110010052022,58.0,73.39488768488057,2.0,"Dupont Circle, Connecticut Avenue/K Street",184596.0,0.7930652473044958,Q5 (highest income),False
+110010052023,94.0,10.675017676999094,2.0,"Shaw, Logan Circle",184596.0,8.137032647681478,Q5 (highest income),False
+110010052031,18.0,5.853777697509767,2.0,"Shaw, Logan Circle",113021.0,2.7721937942199975,Q3,False
+110010052032,19.0,30.805223783014377,2.0,"Shaw, Logan Circle",113021.0,0.6288275201723632,Q3,False
+110010052033,14.0,7.526716608512334,2.0,"Shaw, Logan Circle",113021.0,1.75917656100184,Q3,False
+110010053021,36.0,10.262720585814868,2.0,"Dupont Circle, Connecticut Avenue/K Street",129688.0,3.2851742807684166,Q3,False
+110010053022,21.0,19.854654234120865,2.0,"Dupont Circle, Connecticut Avenue/K Street",129688.0,1.0549203910561702,Q3,False
+110010053023,63.0,25.961157418281925,2.0,"Dupont Circle, Connecticut Avenue/K Street",129688.0,2.3737853315081585,Q3,False
+110010053031,2.0,8.684715675861321,2.0,"Dupont Circle, Connecticut Avenue/K Street",94583.0,0.3097664506018853,Q2,False
+110010053032,61.0,56.86893751029894,2.0,"Dupont Circle, Connecticut Avenue/K Street",94583.0,1.071386527339747,Q2,False
+110010053033,25.0,6.362400782084886,2.0,"Dupont Circle, Connecticut Avenue/K Street",94583.0,3.5314567584077263,Q2,False
+110010055011,10.0,23.985669112517407,2.0,"West End, Foggy Bottom, GWU",151250.0,0.44025236828615416,Q4,False
+110010055012,7.0,46.490817250077285,2.0,"West End, Foggy Bottom, GWU",151250.0,0.1684536182621069,Q4,True
+110010055021,93.0,43.461482549570626,2.0,"Dupont Circle, Connecticut Avenue/K Street",105000.0,2.114189509879665,Q3,False
+110010055022,69.0,13.732257712129021,2.0,"Dupont Circle, Connecticut Avenue/K Street",105000.0,4.751478107959598,Q3,False
+110010055023,18.0,10.770147804998832,2.0,"Dupont Circle, Connecticut Avenue/K Street",105000.0,1.614253305462368,Q3,False
+110010055031,23.0,24.932032877500028,2.0,"West End, Foggy Bottom, GWU",117778.0,0.9254962815053208,Q3,False
+110010055032,4.0,12.490715315939852,2.0,"West End, Foggy Bottom, GWU",117778.0,0.37062526952090435,Q3,False
+110010056011,22.0,17.172126970199454,2.0,"West End, Foggy Bottom, GWU",81393.0,1.2656746256350617,Q2,False
+110010056012,8.0,10.867636798342717,2.0,"West End, Foggy Bottom, GWU",81393.0,0.75836496793168,Q2,False
+110010056013,43.0,41.96834810409473,2.0,"West End, Foggy Bottom, GWU",81393.0,1.0240095777805094,Q2,False
+110010056021,0.0,8.881717201160473,2.0,"West End, Foggy Bottom, GWU",123710.0,0.10119698627709803,Q3,False
+110010056022,0.0,3.364388717939726,2.0,"West End, Foggy Bottom, GWU",123710.0,0.2291271618152438,Q3,False
+110010056023,24.0,10.973865605286942,2.0,"West End, Foggy Bottom, GWU",123710.0,2.087880457666194,Q3,False
+110010058011,7.0,13.751180323189443,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",144219.0,0.5423294831142211,Q4,False
+110010058012,35.0,61.56631499981767,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",144219.0,0.5753894887385474,Q4,True
+110010058021,2.0,2.040273327921023,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",198295.0,0.9867533857725344,Q5 (highest income),False
+110010058022,4.0,2.1696123871449218,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",198295.0,1.5774799531572468,Q5 (highest income),False
+110010058023,1.0,2.4716759501744714,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",198295.0,0.5760906342366109,Q5 (highest income),False
+110010058024,0.0,10.36903956791743,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",198295.0,0.08795817747190576,Q5 (highest income),False
+110010058025,8.0,16.135581037573697,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",198295.0,0.5252229253426208,Q5 (highest income),False
+110010059001,6.0,3.601477963519998,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",133161.0,1.521250358144756,Q4,False
+110010059002,5.0,20.919896204648868,6.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",133161.0,0.2737239238718427,Q4,False
+110010064001,4.0,145.36350938570942,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",91471.0,0.03416152032009276,Q2,True
+110010064002,61.0,65.41922146405302,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",91471.0,0.933464720503465,Q2,False
+110010065001,58.0,65.94292335864743,6.0,"Capitol Hill, Lincoln Park",134939.0,0.8813478264746053,Q4,False
+110010065002,30.0,55.630742156332694,6.0,"Capitol Hill, Lincoln Park",134939.0,0.5474058580129952,Q4,True
+110010066001,56.0,48.84636441491009,6.0,"Capitol Hill, Lincoln Park",192279.0,1.143513687889946,Q5 (highest income),False
+110010066002,13.0,55.20417476655458,6.0,"Capitol Hill, Lincoln Park",192279.0,0.2490918167226784,Q5 (highest income),True
+110010067001,39.0,42.909887749619145,6.0,"Capitol Hill, Lincoln Park",177963.0,0.9109565532958335,Q5 (highest income),False
+110010067002,47.0,41.089200132399604,6.0,"Capitol Hill, Lincoln Park",177963.0,1.1404350723940309,Q5 (highest income),False
+110010067003,59.0,11.598918322620186,6.0,"Capitol Hill, Lincoln Park",177963.0,4.762313594197653,Q5 (highest income),False
+110010068011,67.0,45.24402498917219,7.0,"Capitol Hill, Lincoln Park",180268.0,1.4704602381804324,Q5 (highest income),False
+110010068012,54.0,16.699574851318317,7.0,"Capitol Hill, Lincoln Park",180268.0,3.10741927204559,Q5 (highest income),False
+110010068021,61.0,20.277969043429856,7.0,"Capitol Hill, Lincoln Park",163382.0,2.9138119278890557,Q4,False
+110010068022,44.0,73.81136526410741,6.0,"Capitol Hill, Lincoln Park",163382.0,0.6015128829842363,Q4,False
+110010068041,1.0,4.376834589811033,7.0,"Capitol Hill, Lincoln Park",0.0,0.37196606415788763,Q1 (lowest income),False
+110010069001,27.0,32.807690841588894,6.0,"Capitol Hill, Lincoln Park",207688.0,0.8282139153247196,Q5 (highest income),False
+110010069002,20.0,38.61104327009102,6.0,"Capitol Hill, Lincoln Park",207688.0,0.5301551856842004,Q5 (highest income),False
+110010070001,19.0,33.216515408467366,6.0,"Capitol Hill, Lincoln Park",180036.0,0.5845130563777606,Q5 (highest income),False
+110010070002,40.0,73.2741997969066,6.0,"Capitol Hill, Lincoln Park",180036.0,0.5520086397714052,Q5 (highest income),True
+110010071001,44.0,3.385240874749619,6.0,"Near Southeast, Navy Yard",170114.0,10.261694006163193,Q5 (highest income),False
+110010071002,26.0,116.92634838938685,6.0,"Capitol Hill, Lincoln Park",170114.0,0.22895646620759733,Q5 (highest income),True
+110010071003,64.0,29.074428589793637,6.0,"Capitol Hill, Lincoln Park",170114.0,2.161304571620658,Q5 (highest income),False
+110010072011,8.0,25.97788921509905,8.0,"Near Southeast, Navy Yard",134355.0,0.33360652971185223,Q4,False
+110010072012,7.0,50.75485520579577,8.0,"Near Southeast, Navy Yard",134355.0,0.15457486970428466,Q4,True
+110010072013,1.0,1.640651625714189,8.0,"Near Southeast, Navy Yard",134355.0,0.7573888128688998,Q4,False
+110010072014,2.0,3.200044725726646,8.0,"Arboretum, Anacostia River",134355.0,0.7142781079506177,Q4,False
+110010072021,4.0,9.655934431642747,6.0,"Near Southeast, Navy Yard",140906.0,0.4692221064304341,Q4,False
+110010072022,0.0,43.365748142577566,6.0,"Near Southeast, Navy Yard",140906.0,0.02253991067132046,Q4,True
+110010072023,1.0,7.287414908691308,6.0,"Near Southeast, Navy Yard",140906.0,0.24132977798692434,Q4,False
+110010072031,12.0,14.817558874915452,8.0,"Near Southeast, Navy Yard",158221.0,0.8218714469662113,Q4,False
+110010072032,11.0,16.57695935220725,8.0,"Near Southeast, Navy Yard",158221.0,0.6827119389391478,Q4,False
+110010072033,0.0,9.917253655407448,8.0,"Near Southeast, Navy Yard",158221.0,0.09159812820733426,Q4,False
+110010072034,15.0,14.736766395758885,8.0,"Near Southeast, Navy Yard",158221.0,1.016727299473166,Q4,False
+110010073011,0.0,3.9391677319541567,8.0,"National Mall, Potomac River",123977.0,0.2024632598586311,Q3,False
+110010073012,0.0,2.592839711348256,8.0,"National Mall, Potomac River",123977.0,0.27833137026442467,Q3,False
+110010073013,0.0,3.1423010285378945,8.0,Joint Base Anacostia-Bolling,123977.0,0.2414117161236274,Q3,False
+110010073041,0.0,9.770915030991429,8.0,"Congress Heights, Bellevue, Washington Highlands",44044.0,0.09284262266693911,Q1 (lowest income),False
+110010073042,4.0,10.867287949345348,8.0,"Congress Heights, Bellevue, Washington Highlands",44044.0,0.42132625595183454,Q1 (lowest income),False
+110010073043,4.0,30.389382677834213,8.0,"Douglas, Shipley Terrace",44044.0,0.1592895295621974,Q1 (lowest income),False
+110010073044,4.0,6.750010763257539,8.0,"Douglas, Shipley Terrace",44044.0,0.6451603943190352,Q1 (lowest income),False
+110010074011,15.0,5.176960205352538,8.0,"Sheridan, Barry Farm, Buena Vista",31862.0,2.5902708562272228,Q1 (lowest income),False
+110010074012,1.0,91.48111283830362,8.0,"Sheridan, Barry Farm, Buena Vista",31862.0,0.021626037345558895,Q1 (lowest income),True
+110010074031,12.0,27.430377560445336,8.0,"Douglas, Shipley Terrace",0.0,0.45725738155819157,Q1 (lowest income),False
+110010074032,1.0,19.931231091472064,8.0,"Douglas, Shipley Terrace",0.0,0.09555099703690399,Q1 (lowest income),False
+110010074041,9.0,30.93420984060118,8.0,"Douglas, Shipley Terrace",49901.0,0.3131438056527703,Q1 (lowest income),False
+110010074042,6.0,47.804503876128415,8.0,"Douglas, Shipley Terrace",49901.0,0.14342938548800385,Q1 (lowest income),True
+110010074043,1.0,4.377287958856193,8.0,"Douglas, Shipley Terrace",49901.0,0.3719347030143838,Q1 (lowest income),False
+110010074061,1.0,8.166428544699986,8.0,"Sheridan, Barry Farm, Buena Vista",46250.0,0.21818748602544843,Q1 (lowest income),False
+110010074062,2.0,21.68847527829219,8.0,"Sheridan, Barry Farm, Buena Vista",46250.0,0.13222572090907891,Q1 (lowest income),False
+110010074071,2.0,13.513553430405253,8.0,"Sheridan, Barry Farm, Buena Vista",51750.0,0.20670334211297509,Q1 (lowest income),False
+110010074072,15.0,68.97854420888171,8.0,"Sheridan, Barry Farm, Buena Vista",51750.0,0.22864150977821102,Q1 (lowest income),True
+110010074073,9.0,12.59287925262679,8.0,"Sheridan, Barry Farm, Buena Vista",51750.0,0.7356793078307913,Q1 (lowest income),False
+110010074081,0.0,22.016212852260963,8.0,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",26262.0,0.04344763434449063,Q1 (lowest income),False
+110010074082,6.0,30.015996502220297,8.0,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",26262.0,0.22568999192074649,Q1 (lowest income),False
+110010074091,5.0,25.083770873362166,8.0,"Douglas, Shipley Terrace",0.0,0.2300280902301381,Q1 (lowest income),False
+110010074092,0.0,15.999699233064344,8.0,"Douglas, Shipley Terrace",0.0,0.05882457014621789,Q1 (lowest income),False
+110010074093,0.0,11.975684507313334,8.0,"Douglas, Shipley Terrace",0.0,0.07706722519620307,Q1 (lowest income),False
+110010075021,3.0,26.168747453989656,8.0,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",46068.0,0.14722798711180965,Q1 (lowest income),False
+110010075022,4.0,8.44026638003113,8.0,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",46068.0,0.529646071277865,Q1 (lowest income),False
+110010075023,0.0,28.978730241287092,8.0,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",46068.0,0.033356983166111125,Q1 (lowest income),False
+110010075031,29.0,56.720285231430324,8.0,Historic Anacostia,47857.0,0.5197479513435279,Q1 (lowest income),True
+110010075032,14.0,137.3549727803839,8.0,Historic Anacostia,47857.0,0.10841677533202995,Q1 (lowest income),True
+110010075041,1.0,89.0977207297485,8.0,Historic Anacostia,39905.0,0.02219811981702706,Q1 (lowest income),True
+110010075042,4.0,18.861346318557924,8.0,Historic Anacostia,39905.0,0.25174527042651335,Q1 (lowest income),False
+110010076011,14.0,16.81484974756038,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",69273.0,0.8419941909447844,Q1 (lowest income),False
+110010076012,50.0,11.922800362546454,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",69273.0,3.946513028848678,Q1 (lowest income),False
+110010076013,60.0,61.12889708973121,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",69273.0,0.9818297580898503,Q1 (lowest income),False
+110010076014,14.0,39.66893008863667,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",69273.0,0.3688319305993043,Q1 (lowest income),False
+110010076015,21.0,49.282941776176465,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",69273.0,0.4375241229506459,Q1 (lowest income),True
+110010076031,4.0,12.114093604589117,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",78877.0,0.3812692017273928,Q2,False
+110010076032,1.0,4.281070893879963,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",78877.0,0.37871106830202295,Q2,False
+110010076033,5.0,3.6532487084004446,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",78877.0,1.2894217300631887,Q2,False
+110010076034,1.0,4.780526712485805,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",78877.0,0.34598923237912665,Q2,False
+110010076041,8.0,55.88481085544768,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",83813.0,0.15821446647454393,Q2,True
+110010076042,2.0,53.80305041526685,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",83813.0,0.05474147838975529,Q2,True
+110010076043,0.0,3.2216486068693855,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",83813.0,0.2368742861196025,Q2,False
+110010076044,3.0,14.811079562020682,7.0,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",83813.0,0.25298715273106837,Q2,False
+110010076051,29.0,12.740150152794234,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",56201.0,2.1833822532062443,Q1 (lowest income),False
+110010076052,4.0,30.057388676003644,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",56201.0,0.16099228599548127,Q1 (lowest income),False
+110010076053,3.0,8.520033595685387,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",56201.0,0.42016658447643046,Q1 (lowest income),False
+110010076054,8.0,10.688731198315327,8.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",56201.0,0.769972364605078,Q1 (lowest income),False
+110010077031,8.0,44.670256416843294,7.0,"Capitol View, Marshall Heights, Benning Heights",76731.0,0.1970648011663184,Q2,True
+110010077032,5.0,42.85208499508711,7.0,"River Terrace, Benning, Greenway, Dupont Park",76731.0,0.13682359688649237,Q2,True
+110010077033,3.0,26.660630038280793,7.0,"River Terrace, Benning, Greenway, Dupont Park",76731.0,0.14460986588028615,Q2,False
+110010077034,1.0,20.39730183772129,7.0,"River Terrace, Benning, Greenway, Dupont Park",76731.0,0.09346972880824633,Q2,False
+110010077071,27.0,41.288669707891685,7.0,"Capitol View, Marshall Heights, Benning Heights",75590.0,0.6621158857303754,Q2,False
+110010077072,29.0,41.08435508196165,7.0,"Capitol View, Marshall Heights, Benning Heights",75590.0,0.7128539796219596,Q2,False
+110010077073,8.0,73.64427033222975,7.0,"Capitol View, Marshall Heights, Benning Heights",75590.0,0.12057187993053498,Q2,True
+110010077081,7.0,24.515236483588527,7.0,"River Terrace, Benning, Greenway, Dupont Park",48948.0,0.31353814828036664,Q1 (lowest income),False
+110010077082,7.0,53.984876975456125,7.0,"River Terrace, Benning, Greenway, Dupont Park",48948.0,0.14549455123035013,Q1 (lowest income),True
+110010077091,21.0,49.46290093903399,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",37929.0,0.435963838594594,Q1 (lowest income),True
+110010077092,5.0,31.583978190366988,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",37929.0,0.18413957819839868,Q1 (lowest income),False
+110010078031,8.0,50.377838516143036,7.0,"Mayfair, Hillbrook, Mahaning Heights",39443.0,0.17517280329284735,Q1 (lowest income),True
+110010078032,19.0,15.49929666606168,7.0,"Mayfair, Hillbrook, Mahaning Heights",39443.0,1.212172882565298,Q1 (lowest income),False
+110010078033,17.0,31.894843454490715,7.0,"Capitol View, Marshall Heights, Benning Heights",39443.0,0.5471982265215094,Q1 (lowest income),False
+110010078034,22.0,101.32370697339888,7.0,"Mayfair, Hillbrook, Mahaning Heights",39443.0,0.2247768447831871,Q1 (lowest income),True
+110010078041,9.0,67.35618849023409,7.0,"Mayfair, Hillbrook, Mahaning Heights",36679.0,0.14629253357841449,Q1 (lowest income),True
+110010078042,21.0,34.93706173830016,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",36679.0,0.6121813786616104,Q1 (lowest income),False
+110010078043,86.0,24.651263505231114,7.0,"Capitol View, Marshall Heights, Benning Heights",36679.0,3.3916457948458527,Q1 (lowest income),False
+110010078061,28.0,89.11313531229972,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",54207.0,0.32181767840500086,Q1 (lowest income),True
+110010078062,50.0,45.96008041203386,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",54207.0,1.0860288047320055,Q1 (lowest income),False
+110010078071,16.0,30.973894511828536,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",69405.0,0.5316837457417318,Q1 (lowest income),False
+110010078072,21.0,25.52129674696702,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",69405.0,0.829522033175694,Q1 (lowest income),False
+110010078081,24.0,45.18808852098584,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",67611.0,0.5412650923763839,Q1 (lowest income),True
+110010078082,25.0,49.39619953205374,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",67611.0,0.5159119187839372,Q1 (lowest income),True
+110010078083,8.0,59.55813703492564,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",67611.0,0.14861751765595824,Q1 (lowest income),True
+110010078091,53.0,129.79280727876102,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",88425.0,0.4128667403315906,Q2,True
+110010078092,20.0,83.52066630113794,7.0,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",88425.0,0.2484599438104201,Q2,True
+110010079011,53.0,68.70482530935443,7.0,"Union Station, Stanton Park, Kingman Park",101778.0,0.7746952920453437,Q2,False
+110010079012,128.0,40.328192583365336,7.0,"Union Station, Stanton Park, Kingman Park",101778.0,3.121355954286825,Q2,False
+110010079013,70.0,100.85174372222605,7.0,"Union Station, Stanton Park, Kingman Park",101778.0,0.6970916491487265,Q2,False
+110010079014,86.0,53.22350168201199,7.0,"Union Station, Stanton Park, Kingman Park",101778.0,1.604470336685416,Q2,False
+110010079031,320.0,55.335293798411286,7.0,"Union Station, Stanton Park, Kingman Park",114722.0,5.69802655416439,Q3,False
+110010080011,53.0,34.8415665273066,6.0,"Union Station, Stanton Park, Kingman Park",202236.0,1.5066305753923743,Q5 (highest income),False
+110010080012,90.0,70.55790748264388,6.0,"Union Station, Stanton Park, Kingman Park",202236.0,1.2716973315922036,Q5 (highest income),False
+110010080013,45.0,20.565698456573003,6.0,"Union Station, Stanton Park, Kingman Park",202236.0,2.1330169339347167,Q5 (highest income),False
+110010080021,41.0,24.86289855590067,7.0,"Capitol Hill, Lincoln Park",146711.0,1.6239479078193892,Q4,False
+110010080022,99.0,29.895940770044454,6.0,"Capitol Hill, Lincoln Park",146711.0,3.236671145387366,Q4,False
+110010081001,48.0,19.343061354161506,6.0,"Union Station, Stanton Park, Kingman Park",184519.0,2.4086836856526634,Q5 (highest income),False
+110010081002,25.0,120.86433403285685,6.0,"Union Station, Stanton Park, Kingman Park",184519.0,0.2133520049679993,Q5 (highest income),True
+110010081003,30.0,3.2521692737394994,6.0,"Capitol Hill, Lincoln Park",184519.0,7.290396502192296,Q5 (highest income),False
+110010082001,13.0,7.7670084558903385,6.0,"Capitol Hill, Lincoln Park",121932.0,1.596895916142723,Q3,False
+110010082002,18.0,2.3206768718252127,6.0,"Capitol Hill, Lincoln Park",121932.0,5.721725037810329,Q3,False
+110010082003,12.0,4.608114607877989,6.0,"Capitol Hill, Lincoln Park",121932.0,2.3180696025252896,Q3,False
+110010082004,7.0,17.209113186504467,6.0,"Union Station, Stanton Park, Kingman Park",121932.0,0.43934045101818214,Q3,False
+110010083011,58.0,109.93720713220075,6.0,"Union Station, Stanton Park, Kingman Park",160625.0,0.531832389918482,Q4,True
+110010083012,31.0,44.03586947365321,6.0,"Union Station, Stanton Park, Kingman Park",160625.0,0.710544736317805,Q4,False
+110010083021,32.0,8.520649530722576,6.0,"Union Station, Stanton Park, Kingman Park",204000.0,3.466150066075948,Q5 (highest income),False
+110010083022,66.0,76.46750754518644,6.0,"Union Station, Stanton Park, Kingman Park",204000.0,0.8648787359128498,Q5 (highest income),False
+110010083023,53.0,24.869929826615653,6.0,"Union Station, Stanton Park, Kingman Park",204000.0,2.0873655383650638,Q5 (highest income),False
+110010084021,56.0,56.89295468179838,6.0,"Union Station, Stanton Park, Kingman Park",100455.0,0.9845757625136531,Q2,False
+110010084022,53.0,35.01461024884615,6.0,"Union Station, Stanton Park, Kingman Park",100455.0,1.4993914865906421,Q2,False
+110010084101,114.0,111.13030099507334,6.0,"Union Station, Stanton Park, Kingman Park",222592.0,1.0255925381405402,Q5 (highest income),False
+110010087011,104.0,30.28970522483477,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",213672.0,3.355736311528466,Q5 (highest income),False
+110010087012,160.0,32.25402113069372,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",213672.0,4.841519747859778,Q5 (highest income),False
+110010087021,153.0,110.44111828726143,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",112720.0,1.3818956805784617,Q3,False
+110010087022,2.0,6.702617982154805,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",112720.0,0.389477968003906,Q3,False
+110010087023,70.0,44.29528883643782,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",112720.0,1.5674919362228243,Q3,False
+110010088021,46.0,23.925349445676805,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",80199.0,1.885630534586224,Q2,False
+110010088022,63.0,56.9178404942227,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",80199.0,1.1050135753314902,Q2,False
+110010088023,80.0,32.21076159531735,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",80199.0,2.438968458086214,Q2,False
+110010088024,41.0,39.26358309110131,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",80199.0,1.0431262390376395,Q2,False
+110010088031,35.0,76.00934710804482,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",102585.0,0.46747572018097583,Q2,True
+110010088032,19.0,28.577510773741864,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",102585.0,0.6761894248976311,Q2,False
+110010088041,28.0,84.61268156866065,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",103184.0,0.33873486344125603,Q3,True
+110010088042,86.0,27.52275457786059,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",103184.0,3.050196283199434,Q3,False
+110010089031,11.0,41.5402566790378,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",60433.0,0.28208574505177203,Q1 (lowest income),False
+110010089032,106.0,29.37281357213732,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",60433.0,3.5228873263870777,Q1 (lowest income),False
+110010089033,12.0,35.77056630825524,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",60433.0,0.35354364387587395,Q1 (lowest income),False
+110010089041,45.0,88.65109140955374,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",66134.0,0.5131002788338388,Q1 (lowest income),True
+110010089042,39.0,31.188253398016606,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",66134.0,1.2426893595433401,Q1 (lowest income),False
+110010089043,0.0,46.734437505917825,5.0,"Ivy City, Arboretum, Trinidad, Carver Langston",66134.0,0.020949236070416166,Q1 (lowest income),True
+110010090001,1.0,24.19907131636857,5.0,"Woodridge, Fort Lincoln, Gateway",70909.0,0.07936800427644566,Q2,False
+110010090002,3.0,7.616255663809942,5.0,"Woodridge, Fort Lincoln, Gateway",70909.0,0.46423877796486807,Q2,False
+110010090003,2.0,19.086646856948256,5.0,"Woodridge, Fort Lincoln, Gateway",70909.0,0.1493529518074968,Q2,False
+110010091021,46.0,43.42162576039544,5.0,"Brookland, Brentwood, Langdon",71215.0,1.058043220964311,Q2,False
+110010091022,36.0,93.35053811807231,5.0,"Brookland, Brentwood, Langdon",71215.0,0.3921546261209173,Q2,True
+110010091023,66.0,58.373863681476166,5.0,"Brookland, Brentwood, Langdon",71215.0,1.1284426487626926,Q2,False
+110010091024,36.0,11.9487620217976,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",71215.0,2.857416016891436,Q2,False
+110010092011,31.0,16.754924382558297,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",99394.0,1.8023168846292286,Q2,False
+110010092012,28.0,8.955780096733275,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",99394.0,2.9128807304126356,Q2,False
+110010092031,108.0,11.790310249130675,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",136625.0,8.522076312215214,Q4,False
+110010092032,146.0,130.1459470750504,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",136625.0,1.1208886227789934,Q4,False
+110010092041,54.0,9.156345904163746,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",48450.0,5.415333479086403,Q1 (lowest income),False
+110010092042,5.0,11.156794035629407,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",48450.0,0.4935511766025701,Q1 (lowest income),False
+110010093011,28.0,9.279488323195103,5.0,"Brookland, Brentwood, Langdon",228839.0,2.8211520931993364,Q5 (highest income),False
+110010093012,47.0,61.483022700609766,5.0,"Brookland, Brentwood, Langdon",228839.0,0.7682086737383717,Q5 (highest income),False
+110010093013,25.0,21.993410101482024,5.0,"Brookland, Brentwood, Langdon",228839.0,1.1307587645872583,Q5 (highest income),False
+110010093014,4.0,14.122026177043399,5.0,"Brookland, Brentwood, Langdon",228839.0,0.33064352233369704,Q5 (highest income),False
+110010093021,75.0,38.28220926286569,5.0,"Brookland, Brentwood, Langdon",121960.0,1.9347180676990186,Q3,False
+110010094001,4.0,2.2935779013201176,5.0,"North Michigan Park, Michigan Park, University Heights",142353.0,1.518105886609186,Q4,False
+110010094002,70.0,44.796036996708864,5.0,"Brookland, Brentwood, Langdon",142353.0,1.5503524902188026,Q4,False
+110010094003,20.0,60.14886957137429,5.0,"Woodridge, Fort Lincoln, Gateway",142353.0,0.34342417361433547,Q4,True
+110010094004,22.0,19.02700919380606,5.0,"Woodridge, Fort Lincoln, Gateway",142353.0,1.1484490658302302,Q4,False
+110010095031,87.0,36.69799907560337,5.0,"North Michigan Park, Michigan Park, University Heights",95313.0,2.334341401609033,Q2,False
+110010095032,33.0,10.738579740619095,5.0,"Brookland, Brentwood, Langdon",95313.0,2.896432170780384,Q2,False
+110010095033,23.0,33.4485898631113,5.0,"North Michigan Park, Michigan Park, University Heights",95313.0,0.6966903462629105,Q2,False
+110010095041,83.0,61.067462314464386,5.0,"North Michigan Park, Michigan Park, University Heights",120446.0,1.3533661095150717,Q3,False
+110010095042,61.0,61.66397362406057,5.0,"North Michigan Park, Michigan Park, University Heights",120446.0,0.9894042208678955,Q3,False
+110010095051,58.0,18.995414703483885,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",95078.0,2.950676486330648,Q2,False
+110010095052,108.0,31.279865978976613,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",95078.0,3.3767178609412456,Q2,False
+110010095053,64.0,46.89870829701889,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",95078.0,1.3570303315266115,Q2,False
+110010095071,77.0,39.797495388715305,4.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",124489.0,1.911882071603224,Q3,False
+110010095081,67.0,45.45756251694254,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",96125.0,1.463701415139918,Q2,False
+110010095082,25.0,32.267934273668025,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",96125.0,0.781533346378507,Q2,False
+110010095083,3.0,4.256557114579372,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",96125.0,0.7609543495505383,Q2,False
+110010095084,4.0,12.999554382889121,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",96125.0,0.35715422528814367,Q2,False
+110010095091,96.0,30.508573920862258,5.0,"North Michigan Park, Michigan Park, University Heights",119727.0,3.0785271413307274,Q3,False
+110010095092,80.0,18.576051250607673,5.0,"North Michigan Park, Michigan Park, University Heights",119727.0,4.13770882406561,Q3,False
+110010095093,29.0,34.252211692212,5.0,"North Michigan Park, Michigan Park, University Heights",119727.0,0.8510104348042273,Q3,False
+110010095101,26.0,43.41301557253776,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",68816.0,0.6079298973946529,Q1 (lowest income),False
+110010095102,2.0,18.150137148574565,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",68816.0,0.15665684150065234,Q1 (lowest income),False
+110010095103,19.0,46.497272779566465,5.0,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",68816.0,0.4210768077741947,Q1 (lowest income),True
+110010095111,0.0,12.284970582552132,5.0,"North Michigan Park, Michigan Park, University Heights",0.0,0.07527303081222882,Q1 (lowest income),False
+110010096011,13.0,9.236484311854813,7.0,"Eastland Gardens, Kenilworth",40987.0,1.3676570562206285,Q1 (lowest income),False
+110010096021,0.0,1.2239193484145372,7.0,"Mayfair, Hillbrook, Mahaning Heights",44718.0,0.44965659420739057,Q1 (lowest income),False
+110010096022,3.0,3.9581030758181495,7.0,"Mayfair, Hillbrook, Mahaning Heights",44718.0,0.8067601537993337,Q1 (lowest income),False
+110010096023,8.0,3.364034983436264,7.0,"Mayfair, Hillbrook, Mahaning Heights",44718.0,2.0623116070699674,Q1 (lowest income),False
+110010096031,15.0,37.397246128686625,7.0,"River Terrace, Benning, Greenway, Dupont Park",36390.0,0.41669655022593877,Q1 (lowest income),False
+110010096032,17.0,34.09448524402179,7.0,"River Terrace, Benning, Greenway, Dupont Park",36390.0,0.5129010975610828,Q1 (lowest income),False
+110010096033,81.0,101.46247607354141,7.0,"River Terrace, Benning, Greenway, Dupont Park",36390.0,0.8002929769249898,Q1 (lowest income),False
+110010096041,163.0,12.667747108862484,7.0,"River Terrace, Benning, Greenway, Dupont Park",85391.0,11.999051394041276,Q2,False
+110010096042,139.0,57.84002099355901,7.0,"River Terrace, Benning, Greenway, Dupont Park",85391.0,2.3793329376161383,Q2,False
+110010097001,2.0,51.37447251044101,8.0,"Congress Heights, Bellevue, Washington Highlands",54044.0,0.05727981316474244,Q1 (lowest income),True
+110010097002,83.0,58.903291722795544,8.0,"Congress Heights, Bellevue, Washington Highlands",54044.0,1.4022601694196166,Q1 (lowest income),False
+110010097003,2.0,19.01255630736292,8.0,"Congress Heights, Bellevue, Washington Highlands",54044.0,0.14990588678050365,Q1 (lowest income),False
+110010098011,10.0,62.36452923355264,8.0,"Congress Heights, Bellevue, Washington Highlands",14259.0,0.17359870156149296,Q1 (lowest income),True
+110010098021,1.0,38.82387763858018,8.0,"Congress Heights, Bellevue, Washington Highlands",34448.0,0.050221126585183656,Q1 (lowest income),False
+110010098022,6.0,23.28705187583381,8.0,"Congress Heights, Bellevue, Washington Highlands",34448.0,0.2882194197874286,Q1 (lowest income),False
+110010098031,3.0,20.26515951652003,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,0.18810110485616457,Q1 (lowest income),False
+110010098032,2.0,16.22863441840327,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,0.17412871659726334,Q1 (lowest income),False
+110010098033,25.0,80.72742844698692,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,0.3181306507993835,Q1 (lowest income),True
+110010098041,14.0,42.318903742917406,8.0,"Congress Heights, Bellevue, Washington Highlands",48558.0,0.34626915050805007,Q1 (lowest income),False
+110010098042,6.0,17.276236329981916,8.0,"Congress Heights, Bellevue, Washington Highlands",48558.0,0.3830110244589361,Q1 (lowest income),False
+110010098071,6.0,27.634842210998183,8.0,Joint Base Anacostia-Bolling,0.0,0.2444574322575248,Q1 (lowest income),False
+110010098072,7.0,96.93998444306904,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,0.0816826758294032,Q1 (lowest income),True
+110010098073,22.0,61.189979603942106,8.0,Joint Base Anacostia-Bolling,0.0,0.36983449980971006,Q1 (lowest income),True
+110010098101,7.0,4.100291459709545,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,1.568537810671626,Q1 (lowest income),False
+110010098102,3.0,7.656138298111793,8.0,"Congress Heights, Bellevue, Washington Highlands",0.0,0.4620998258394901,Q1 (lowest income),False
+110010098111,3.0,26.9795383224047,8.0,"Congress Heights, Bellevue, Washington Highlands",53980.0,0.14296161551732925,Q1 (lowest income),False
+110010098112,2.0,22.69165882434699,8.0,"Congress Heights, Bellevue, Washington Highlands",53980.0,0.12662684458873844,Q1 (lowest income),False
+110010098113,3.0,73.95737707148123,8.0,"Congress Heights, Bellevue, Washington Highlands",53980.0,0.05336366020632632,Q1 (lowest income),True
+110010099011,3.0,10.12995675535414,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",106477.0,0.35939043501456314,Q3,False
+110010099012,10.0,10.909530458356208,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",106477.0,0.9236300321379971,Q3,False
+110010099021,19.0,11.63660831578996,7.0,"River Terrace, Benning, Greenway, Dupont Park",99432.0,1.5827031668781868,Q2,False
+110010099022,94.0,23.323442443862838,7.0,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",99432.0,3.90569715694046,Q2,False
+110010099031,15.0,21.392685981710876,7.0,"Capitol View, Marshall Heights, Benning Heights",157585.0,0.7145190180877777,Q4,False
+110010099032,25.0,42.97291894335011,7.0,"Capitol View, Marshall Heights, Benning Heights",157585.0,0.5912730067679962,Q4,True
+110010099041,6.0,6.6841535243638495,7.0,"Capitol View, Marshall Heights, Benning Heights",55082.0,0.9109656617095649,Q1 (lowest income),False
+110010099042,0.0,31.970238121985382,7.0,"Capitol View, Marshall Heights, Benning Heights",55082.0,0.030330384521341233,Q1 (lowest income),False
+110010099043,3.0,37.41764937748041,7.0,"Capitol View, Marshall Heights, Benning Heights",55082.0,0.1041188116612026,Q1 (lowest income),False
+110010099051,9.0,23.646756541350637,7.0,"Capitol View, Marshall Heights, Benning Heights",83976.0,0.4057328997112738,Q2,False
+110010099052,3.0,49.1167218491433,7.0,"Capitol View, Marshall Heights, Benning Heights",83976.0,0.0798136799936841,Q2,True
+110010099053,9.0,51.13336239118284,7.0,"Capitol View, Marshall Heights, Benning Heights",83976.0,0.19181574986406918,Q2,True
+110010099061,15.0,44.60883320725395,7.0,"Capitol View, Marshall Heights, Benning Heights",80203.0,0.35080923748462056,Q2,True
+110010099071,3.0,12.732425383433661,7.0,"Capitol View, Marshall Heights, Benning Heights",39826.0,0.29128139336737024,Q1 (lowest income),False
+110010099072,3.0,10.271156768875743,7.0,"Capitol View, Marshall Heights, Benning Heights",39826.0,0.3548881523008916,Q1 (lowest income),False
+110010101001,1.0,17.62303722251862,2.0,"Dupont Circle, Connecticut Avenue/K Street",112670.0,0.10739386793372449,Q3,False
+110010101002,17.0,30.04066351526818,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",112670.0,0.5798845115261863,Q3,False
+110010101003,15.0,27.035056322814228,2.0,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",112670.0,0.5707140308820996,Q3,False
+110010102011,4.0,21.495781300406765,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",102737.0,0.22226389620482268,Q2,False
+110010102012,0.0,5.924763964572354,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",102737.0,0.14440925425271964,Q2,False
+110010102013,1.0,8.512227372065563,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",102737.0,0.21025569740620104,Q2,False
+110010102021,2.0,1.1951480178218097,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,1.3666504379858744,Q3,False
+110010102022,34.0,4.001994867198821,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,6.997208299735908,Q3,False
+110010102023,1.0,1.3548030760366674,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,0.8493279206030974,Q3,False
+110010102024,4.0,1.5692658114292022,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,1.9460812414806767,Q3,False
+110010102025,1.0,10.050274480160093,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,0.18099097932733202,Q3,False
+110010102026,0.0,1.8201702531990402,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",124917.0,0.35458852133684376,Q3,False
+110010103001,33.0,2.3331328951456034,4.0,Walter Reed,91563.0,10.200613377737751,Q2,False
+110010103002,37.0,42.671219116659955,4.0,"Takoma, Brightwood, Manor Park",91563.0,0.8701382917314423,Q2,False
+110010103003,24.0,75.8492034336738,4.0,"Takoma, Brightwood, Manor Park",91563.0,0.32531241552265067,Q2,True
+110010104001,14.0,49.897182153731116,8.0,"Congress Heights, Bellevue, Washington Highlands",98968.0,0.2947117967099559,Q2,True
+110010104002,18.0,112.65733634778186,8.0,"Congress Heights, Bellevue, Washington Highlands",98968.0,0.16716914728550036,Q2,True
+110010104003,13.0,12.04774740374358,8.0,Saint Elizabeths,98968.0,1.072982145253916,Q2,False
+110010105001,0.0,1.2949692874947507,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",110132.0,0.435735678664191,Q3,False
+110010105002,8.0,29.125381541809134,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",110132.0,0.29875140294935226,Q3,False
+110010105003,5.0,20.506090178605653,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",110132.0,0.2789907393752503,Q3,False
+110010105004,1.0,1.2789116645249106,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",110132.0,0.8776119018272454,Q3,False
+110010105005,1.0,2.5796877416021524,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",110132.0,0.5587079500696518,Q3,False
+110010106011,14.0,44.52039823465707,5.0,"Edgewood, Bloomingdale, Truxton Circle, Eckington",116481.0,0.3295226004543104,Q3,True
+110010106012,9.0,14.690645908381343,6.0,"Union Station, Stanton Park, Kingman Park",116481.0,0.6373223931245802,Q3,False
+110010106021,80.0,37.638130160472095,6.0,"Union Station, Stanton Park, Kingman Park",140455.0,2.0963747382078366,Q4,False
+110010106022,36.0,31.797655067868103,6.0,"Union Station, Stanton Park, Kingman Park",140455.0,1.1281294325291242,Q4,False
+110010106023,61.0,55.18242790389695,6.0,"Union Station, Stanton Park, Kingman Park",140455.0,1.103547894121883,Q4,False
+110010106024,152.0,68.65836266279133,6.0,"Union Station, Stanton Park, Kingman Park",140455.0,2.196434055458016,Q4,False
+110010106031,3.0,2.564835501313881,6.0,"Union Station, Stanton Park, Kingman Park",108469.0,1.1220714107357077,Q3,False
+110010106032,0.0,6.196060616706346,6.0,"Union Station, Stanton Park, Kingman Park",108469.0,0.13896492167928715,Q3,False
+110010106033,6.0,50.58715722904686,6.0,"Union Station, Stanton Park, Kingman Park",108469.0,0.13569268740512325,Q3,True
+110010107001,57.0,42.19666067727883,2.0,"Dupont Circle, Connecticut Avenue/K Street",99012.0,1.3426963818642499,Q2,False
+110010107002,71.0,36.20299423255497,2.0,"Dupont Circle, Connecticut Avenue/K Street",99012.0,1.935328096172309,Q2,False
+110010108001,1.0,16.771445696050563,2.0,"West End, Foggy Bottom, GWU",36776.0,0.11254008448195467,Q1 (lowest income),False
+110010108002,3.0,2.567164648212044,2.0,"West End, Foggy Bottom, GWU",36776.0,1.121338764669835,Q1 (lowest income),False
+110010108003,7.0,39.19339110303245,2.0,"West End, Foggy Bottom, GWU",36776.0,0.1990376970057754,Q1 (lowest income),False
+110010108004,1.0,1.227838694769884,2.0,"National Mall, Potomac River",36776.0,0.8977310631578658,Q1 (lowest income),False
+110010108005,0.0,1.576282994611805,2.0,"National Mall, Potomac River",36776.0,0.38815611564857616,Q1 (lowest income),False
+110010108006,0.0,14.498590376702952,2.0,"West End, Foggy Bottom, GWU",36776.0,0.06452199688451488,Q1 (lowest income),False
+110010109001,1.0,18.20870430919484,8.0,"Congress Heights, Bellevue, Washington Highlands",35457.0,0.1041194641661821,Q1 (lowest income),False
+110010109002,2.0,3.1276997339677792,8.0,"National Mall, Potomac River",35457.0,0.7267970524387514,Q1 (lowest income),False
+110010110011,5.0,13.029686726501417,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",138490.0,0.4276645741965345,Q4,False
+110010110012,2.0,12.349260647786702,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",138490.0,0.22473154724845365,Q4,False
+110010110013,1.0,4.442270854857625,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",138490.0,0.36749365353891816,Q4,False
+110010110021,0.0,20.931796575621192,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",120606.0,0.045595899841218375,Q3,False
+110010110022,0.0,5.606186538703956,6.0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",120606.0,0.15137326113049576,Q3,False
+110010111001,8.0,26.757580883196592,5.0,"Brookland, Brentwood, Langdon",80536.0,0.32423574798797633,Q2,False
+110010111002,37.0,110.85782903674655,5.0,"Brookland, Brentwood, Langdon",80536.0,0.3397169454050156,Q2,True
+110010111003,10.0,8.239179775895058,5.0,"Arboretum, Anacostia River",80536.0,1.190581877051349,Q2,False
+110019800001,14.0,2.747603068949118,6.0,"National Mall, Potomac River",0.0,4.002558361712041,Q1 (lowest income),False
