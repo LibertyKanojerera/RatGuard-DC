@@ -548,6 +548,8 @@ def write_results(meta, metrics, sg, cat_share, synthetic):
     if synthetic:
         lines += ["> **SYNTHETIC TEST DATA. These numbers are fake and only prove the code runs. "
                   "Run `python run.py all` on real data before quoting anything.**", ""]
+    for w in meta.get("data_warnings", [])[:1]:
+        lines += [f"> **Data check:** {w}", ""]
     lines += [
         "# RatGuard results (auto-generated)",
         "",

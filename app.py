@@ -126,6 +126,8 @@ st.markdown("**Find the food. Fix the source. Prove it worked.**")
 st.caption(f"Data: DC 311 service requests {meta['first_month']} to {meta['last_full_month']} · "
            f"{meta['block_groups']} census block groups · forecast window: next {meta['horizon_months']} months · "
            f"built {meta['generated']}")
+if meta.get("data_warnings"):
+    st.warning("Data check: " + meta["data_warnings"][0], icon=":material/report:")
 if synthetic:
     st.error("SYNTHETIC TEST DATA. Every number on this page is fake and only shows that the app works. "
              "Run `python run.py all` on real DC data before any demo.", icon=":material/warning:")

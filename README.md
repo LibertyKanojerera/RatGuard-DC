@@ -39,6 +39,7 @@ python run.py all
 - **If a download stops part-way,** run it again. Finished years are cached, and only the current year re-downloads.
 - **To limit years while testing:** `python run.py download --years 2024 2025`
 - **If DC renames a 311 type,** `python run.py types` writes `data/service_types_by_year.csv`. Edit `service_groups` in `config.yaml` to match.
+- **DC already renamed the rat category once.** From 1 May 2026, rat requests appear as "DC Health Rodent & Vector Control" (same service code, S0311). `config.yaml` includes both names. If a future rename happens, `build` stops the data at the last healthy month and prints a "Rat requests collapse" warning. The app and `results.md` show the same warning.
 
 ## 3. Run the app
 

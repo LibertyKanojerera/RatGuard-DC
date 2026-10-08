@@ -26,6 +26,7 @@ weather:
 service_groups:
   rodent:                 # the outcome
     - Rodent Inspection and Treatment
+    - DC Health Rodent & Vector Control   # same service code (S0311), renamed from 1 May 2026
   food:                   # food sources: trash and sanitation problems
     - Sanitation Enforcement
     - Trash Collection - Missed

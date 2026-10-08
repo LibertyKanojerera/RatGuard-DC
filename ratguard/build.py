@@ -148,6 +148,7 @@ def run(synthetic: bool = False) -> dict:
         end_m = end_m - 1
     start_m = pd.Period(f"{min(cfg['years'])}-01", "M")
     j["month"] = j["ADDDATE"].dt.to_period("M")
+    end_m, warnings = guard_rodent_tail(j, end_m)
     j = j[(j["month"] >= start_m) & (j["month"] <= end_m)]
 
     counts = j.pivot_table(index=["GEOCODE", "month"], columns="group", values="ADDDATE", aggfunc="count")
@@ -197,10 +198,37 @@ def run(synthetic: bool = False) -> dict:
         "block_groups": int(len(bg)),
         "requests_used": {g: int((j["group"] == g).sum()) for g in GROUPS},
         "share_placed_in_block_group": round(float(matched), 4),
+        "data_warnings": warnings,
     }
     json.dump(meta, open(PROCESSED / "build_meta.json", "w"), indent=2)
     print(f"[build] panel: {len(panel):,} rows ({len(bg)} block groups x {len(months)} months), {start_m} to {end_m}")
     return meta
+
+
+def guard_rodent_tail(j: pd.DataFrame, end_m: pd.Period, floor: float = 0.2) -> tuple[pd.Period, list[str]]:
+    """Stop the data before any trailing months where rat requests collapse.
+
+    DC renamed its rat category on 1 May 2026; a rename that config.yaml does not know about
+    shows up as a sudden drop to (near) zero while other request types carry on. Rather than
+    silently treat that as 'no rats', end the panel at the last healthy month and say so.
+    """
+    monthly = j[j["group"] == "rodent"].groupby("month").size()
+    warnings = []
+    while True:
+        prior = monthly[(monthly.index < end_m) & (monthly.index >= end_m - 12)]
+        if len(prior) < 6:
+            break
+        now = monthly.get(end_m, 0)
+        if now >= floor * prior.median():
+            break
+        warnings.append(f"{end_m}: only {now} rat requests vs a typical {prior.median():.0f}")
+        end_m = end_m - 1
+    if warnings:
+        msg = (f"Rat requests collapse after {end_m} ({len(warnings)} month(s) dropped). DC may have renamed the "
+               "311 rat category again: run `python run.py types` and add the new name to service_groups.rodent in config.yaml.")
+        print("[build] WARNING: " + msg)
+        warnings = [msg] + warnings[::-1]
+    return end_m, warnings
 
 
 def add_features(panel: pd.DataFrame, bg: pd.DataFrame, raw, cfg) -> pd.DataFrame:
