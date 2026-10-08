@@ -1,0 +1,65 @@
+# RatGuard DC - pipeline configuration
+# Every endpoint below was checked against maps2.dcgis.dc.gov on 7 Oct 2026.
+
+years: [2020, 2021, 2022, 2023, 2024, 2025, 2026]   # 2020 is only a warm-up year for 12-month features
+
+arcgis:
+  base: https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA
+  # 311 layers are found by name ("All Service Requests - 2025"), so new years work automatically.
+  service_requests: ServiceRequests/FeatureServer
+  block_groups: Demographic_WebMercator/MapServer/2          # Census Block Groups - 2020 (GEOCODE, POP100, ALAND)
+  tract_income: Demographic_WebMercator/MapServer/41         # ACS 5-yr economic, tracts (DP03_0062E = median household income)
+  vacant: Property_and_Land_WebMercator/MapServer/82         # Vacant and Blighted Building Addresses
+  liquor: Business_Licensing_and_Grants_WebMercator/MapServer/5   # ABCA liquor licensees (restaurant/bar proxy)
+  grocery: Business_Goods_and_Service_WebMercator/MapServer/4     # Grocery Store Locations
+  clusters: Administrative_Other_Boundaries_WebMercator/MapServer/17  # Neighborhood Clusters (NBH_NAMES)
+  wards: Administrative_Other_Boundaries_WebMercator/MapServer/53     # Ward - 2022
+
+weather:
+  url: https://archive-api.open-meteo.com/v1/archive
+  latitude: 38.9072
+  longitude: -77.0369
+
+# 311 service types (SERVICECODEDESCRIPTION), grouped by what they tell us about rats.
+# Names were taken from the 2025 layer. Matching ignores case and extra spaces.
+# Run `python run.py types` after downloading to see every type and count per year.
+service_groups:
+  rodent:                 # the outcome
+    - Rodent Inspection and Treatment
+  food:                   # food sources: trash and sanitation problems
+    - Sanitation Enforcement
+    - Trash Collection - Missed
+    - Illegal Dumping
+    - Bulk Collection
+    - Alley Cleaning
+    - Public Space Litter Can-Collection
+    - Pet Waste Complaint
+    - Street Cleaning
+    - Recycling Collection - Missed
+    - DGS - Overflowing Recycling Can
+    - Neighborhood Clean-Up
+  shelter:                # harborage: places rats can live
+    - Abandoned Vehicle - On Public Property
+    - Abandoned Vehicle - On Private Property
+    - Vacant Lot - Public Property Only
+    - DOB - Vacant Private Property Inspection
+    - Grass and Weeds Mowing
+  containers:             # fixes already requested (rat-resistant cans)
+    - Rat Replacement Containers
+    - Supercan - Delivery
+    - Supercan - Repair
+    - Trash Cart - Delivery
+    - Trash Cart Repair
+
+model:
+  horizon_months: 3       # predict: any rat request in the next 3 months?
+  start: "2021-01"        # first month used for modelling (2020 only feeds the rolling features)
+  val_start: "2024-01"    # train < val_start (purged), validate in 2024
+  test_start: "2025-01"   # test on 2025 (never seen in training)
+  test_end: "2025-12"
+  top_k_frac: 0.10        # "if inspectors visited the top 10% of block groups each month"
+  bootstrap_reps: 200
+  seed: 42
+
+app:
+  pilot_ward: 1           # demo defaults to the highest-risk block group in this ward

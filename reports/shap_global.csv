@@ -1,0 +1,24 @@
+feature,mean_abs_shap,label,category
+rodent_12,0.55687654,"Rat requests, last 12 months",colony
+month_cos,0.17545626,Time of year,season
+rodent_months_12,0.16269588,Months with rat requests (last 12),colony
+month_sin,0.12915713,Time of year,season
+rodent_3,0.030594585,"Rat requests, last 3 months",colony
+food,0.02941822,Sanitation requests this month,food
+temp_c,0.02901269,Monthly temperature,season
+vacant_n,0.013669354,Vacant or blighted buildings,shelter
+food_12,0.012909308,"Sanitation requests, last 12 months",food
+shelter_12,0.012909172,"Shelter requests (vacant lots, abandoned cars), 12 mo",shelter
+containers_12,0.012486341,"Rat-resistant can requests, last 12 months",containers
+pop_density,0.011020699,Population density,density
+months_since_rodent,0.010761082,Months since last rat request,colony
+food_trend,0.010337643,Sanitation requests rising vs. usual,food
+precip_mm,0.008144352,Monthly rainfall,season
+rodent,0.0063566873,Rat requests this month,colony
+shelter_3,0.0051758667,"Shelter requests (vacant lots, abandoned cars), 3 mo",shelter
+food_3,0.004235278,"Sanitation requests, last 3 months",food
+restaurants_n,0.00397453,Licensed restaurants,food_business
+venues_n,0.0023465324,Licensed bars and restaurants,food_business
+log_pop,0.00209898,Population,density
+containers_3,0.0011775023,"Rat-resistant can requests, last 3 months",containers
+grocery_n,0.00090633554,Grocery stores,food_business

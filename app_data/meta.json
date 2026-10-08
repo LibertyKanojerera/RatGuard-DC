@@ -1,0 +1,68 @@
+{
+  "data_mode": "synthetic",
+  "first_month": "2020-01",
+  "last_full_month": "2026-09",
+  "last_request_date": "2026-10-04",
+  "block_groups": 338,
+  "requests_used": {
+    "rodent": 48882,
+    "food": 612129,
+    "shelter": 16546,
+    "containers": 9432
+  },
+  "share_placed_in_block_group": 1.0,
+  "generated": "2026-10-07T22:53",
+  "scored_month": "2026-09",
+  "test_window": "2025-01 to 2025-12",
+  "horizon_months": 3,
+  "top_k_frac": 0.1,
+  "pilot_ward": 1,
+  "headline": {
+    "recurrence_share_any_next3": 0.9329021827000809,
+    "capture_full_all": 0.30865123254288124,
+    "capture_rodent_all": 0.30677664260942916,
+    "capture_naive_all": 0.2872809073015278,
+    "capture_full_recent": 0.25843462455980915,
+    "capture_rodent_recent": 0.2591730092014086,
+    "capture_naive_recent": 0.24929001476769283,
+    "diffs": {
+      "all": {
+        "xgb_full_minus_xgb_rodent": {
+          "point": 0.0018745899334520755,
+          "lo": -0.0036561116843731394,
+          "hi": 0.004379279702512213
+        },
+        "xgb_full_minus_naive": {
+          "point": 0.02137032524135346,
+          "lo": 0.010434955848262591,
+          "hi": 0.030377579642341918
+        }
+      },
+      "recent": {
+        "xgb_full_minus_xgb_rodent": {
+          "point": -0.0007383846415994766,
+          "lo": -0.008008081940427837,
+          "hi": 0.005053220608657544
+        },
+        "xgb_full_minus_naive": {
+          "point": 0.009144609792116315,
+          "lo": 0.0034921666461576123,
+          "hi": 0.02281079428981403
+        }
+      }
+    },
+    "fixable_signal_share": 0.07784412056207657,
+    "lag": {
+      "food_leads_mean_corr": 0.0493021402201034,
+      "rats_lead_mean_corr": 0.013207589302629903,
+      "difference": 0.0360945509174735,
+      "difference_lo": 0.03047439569891252,
+      "difference_hi": 0.040498430676999646,
+      "block_groups": 338,
+      "weeks": 353
+    },
+    "oe_lowest_income": 0.9274511049661688,
+    "oe_highest_income": 1.028829373217623,
+    "blind_spots": 61
+  }
+}

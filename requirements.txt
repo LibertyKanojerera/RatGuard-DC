@@ -1,0 +1,7 @@
+# App only (this is what Streamlit Community Cloud installs)
+streamlit>=1.45
+pandas>=2.2
+numpy>=1.26
+plotly>=5.24
+pyarrow>=14
+anthropic>=0.40   # optional: live AI photo tagging and notice drafting

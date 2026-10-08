@@ -1,0 +1,8 @@
+# raw and intermediate data stay local (large, and re-downloadable)
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+.DS_Store
